@@ -74,7 +74,19 @@
 }
 iframe{
     width: 100%;
-    height: 240px;
+    height: 280px;
     border-radius: 8px;
-    border: 1px solid #f2f3f5;
+    border: 2px solid #f2f3f5;
+}
+.shopCarsLocations{
+    width: 25%;
+    margin:20px auto;
+    background-color: #6300A3;
+    height: 50px;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+    font-weight: 600;
 }

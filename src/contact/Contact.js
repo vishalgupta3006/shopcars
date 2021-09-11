@@ -20,6 +20,9 @@ const Contact = () => {
                 <div><ContactForm/></div>
                 <div><ContactAddress/></div>
             </div>
+            <div className="shopCarsLocations">
+                VIEW SHOPCARS LOCATIONS
+            </div>
         </div>
     );
 }

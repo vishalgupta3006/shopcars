@@ -26,7 +26,7 @@ const ContactForm = () => {
                         <input type="tel" placeholder="Enter Your Phone Number" required/>
                     </div>
                     <div className="formItem">
-                        <input type="email" placeholder="Enter Your Email" required />
+                        <input id="email" type="email" placeholder="Enter Your Email" required />
                     </div>
                     <div className="formItem submitButtonWrapper">
                         <button type="submit" className="submitButton">SUBMIT</button>
