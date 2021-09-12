@@ -1,0 +1,14 @@
+.carCard{
+    height: 300px;
+    width: 280px;
+    background: #fff;
+    border: 2px solid black;
+}
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+img{
+    width: 100%;
+}
