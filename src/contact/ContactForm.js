@@ -11,9 +11,9 @@ const ContactForm = () => {
                 <form>
                     <div className="formItem" id="selectWrapper">
                         <select id="selectItem">
-                            <option value="sell">Car Selling Query</option>
-                            <option value="buy">Car Buying Query</option>
-                            <option value="postSales">Post Sales Query</option>
+                            <option className="queryOption" value="sell">Car Selling Query</option>
+                            <option className="queryOption" value="buy">Car Buying Query</option>
+                            <option className="queryOption" value="postSales">Post Sales Query</option>
                         </select>
                     </div>
                     <div className="formItem" id="textareaWrapper">

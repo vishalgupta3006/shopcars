@@ -1,14 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Yanone+Kaffeesatz:wght@200;600&display=swap');
+
 .carCard{
-    height: 300px;
-    width: 280px;
     background: #fff;
-    border: 2px solid black;
+    margin: 0 0 16px;
+    border-radius: 8px !important;
+    overflow: hidden;
+    font-size: 14px;
+}
+.carCardWrapper{
+    width: calc( 25% - 16px);
+    padding: 0 8px 16px;
 }
 .cardContainer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin: 20px;
+}
+.imageWrapper{
+    height: 200px;
+    overflow: hidden;
 }
 img{
     width: 100%;
+}
+.carCard .carDetails{
+    display: flex;
+    font-family: "Roboto Condensed", sans-serif ;
+    flex-direction: column;
+    padding: 10px 20px;
+}
+.carCard .carDetails .carModel{
+    font-size: 16px;
+    font-weight: 600;
+    color: #630063;
+}
+.carCard .carDetails .miscDetails{
+    display: flex;
+    text-transform: capitalize;
+}
+.carCard .carDetails .carPrice{
+    font-size: 18px;
+    font-weight: 600;
+    color: #630063;
+}
+.carCard hr{
+    border: 0.1px solid #f2f3f5;
 }

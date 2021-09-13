@@ -1,0 +1,2798 @@
+[
+    {
+        "id": 1088741,
+        "make": "Hyundai",
+        "model": "Verna",
+        "variant": "1.6 VTVT SX + AT",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/yGkHqNGxTFCuPNj%2Bgcd1yw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/yGkHqNGxTFCuPNj%2Bgcd1yw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/yGkHqNGxTFCuPNj%2Bgcd1yw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/yGkHqNGxTFCuPNj%2Bgcd1yw/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/BMdJkkKKSiyHnIOF1EX3eg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/BMdJkkKKSiyHnIOF1EX3eg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/BMdJkkKKSiyHnIOF1EX3eg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/BMdJkkKKSiyHnIOF1EX3eg/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/6wt3roA3QJS70TT3RcIz9w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/6wt3roA3QJS70TT3RcIz9w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/6wt3roA3QJS70TT3RcIz9w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/6wt3roA3QJS70TT3RcIz9w/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3CHx1b5%2BTCmQeqaLRzZVnQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3CHx1b5%2BTCmQeqaLRzZVnQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3CHx1b5%2BTCmQeqaLRzZVnQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3CHx1b5%2BTCmQeqaLRzZVnQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/wfmvm_BIR8yJ9IR4sryjFw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/wfmvm_BIR8yJ9IR4sryjFw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/wfmvm_BIR8yJ9IR4sryjFw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/wfmvm_BIR8yJ9IR4sryjFw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/dN9LILRNTHiFDrplhntt3Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/dN9LILRNTHiFDrplhntt3Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/dN9LILRNTHiFDrplhntt3Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/dN9LILRNTHiFDrplhntt3Q/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/JD_b2s9LRpizUaEXnBA6Ew/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/JD_b2s9LRpizUaEXnBA6Ew/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/JD_b2s9LRpizUaEXnBA6Ew/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/JD_b2s9LRpizUaEXnBA6Ew/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/J7D6GCXSRxuLBv4Lp1Elmw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/J7D6GCXSRxuLBv4Lp1Elmw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/J7D6GCXSRxuLBv4Lp1Elmw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/J7D6GCXSRxuLBv4Lp1Elmw/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 24846,
+        "make_year": 2019,
+        "price": 1062000,
+        "added_on": "2021-09-13T16:44:43+05:30",
+        "permanent_url": "/buy-used-cars/delhi/hyundai/verna/16-vtvt-sx-at-netaji-subhash-place-2019/1088741/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "black",
+        "body_type": "sedan",
+        "score": 3.7776136758170713,
+        "rto": "DL5C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "In addition to a facelift, the Verna gets much needed improvement in dynamics and high speed stability courtesy the reworked rear suspension.",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "In addition to a facelift, the Verna gets much needed improvement in dynamics and high speed stability courtesy the reworked rear suspension.",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/BMdJkkKKSiyHnIOF1EX3eg/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/yGkHqNGxTFCuPNj%2Bgcd1yw/file"
+        },
+        "transmission": "automatic",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": 1365000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 3,
+            "day": 14,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 915332,
+        "make": "Maruti Suzuki",
+        "model": "Swift",
+        "variant": "VXi",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/YeYXDsA0T%2Bq7opkKrATmfg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/YeYXDsA0T%2Bq7opkKrATmfg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/YeYXDsA0T%2Bq7opkKrATmfg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/YeYXDsA0T%2Bq7opkKrATmfg/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ldSZnpLERNSbE8LyVbEJng/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ldSZnpLERNSbE8LyVbEJng/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ldSZnpLERNSbE8LyVbEJng/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ldSZnpLERNSbE8LyVbEJng/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/dCpsxtqiTjiC5e_apA93Kw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/dCpsxtqiTjiC5e_apA93Kw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/dCpsxtqiTjiC5e_apA93Kw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/dCpsxtqiTjiC5e_apA93Kw/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/9sWabtCFRgSOqqmP0hcpyg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/9sWabtCFRgSOqqmP0hcpyg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/9sWabtCFRgSOqqmP0hcpyg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/9sWabtCFRgSOqqmP0hcpyg/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/74aSq8KfSjKWFCQDLB0iNQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/74aSq8KfSjKWFCQDLB0iNQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/74aSq8KfSjKWFCQDLB0iNQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/74aSq8KfSjKWFCQDLB0iNQ/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/02N4Ook2QdOAXiCiIMXsqA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/02N4Ook2QdOAXiCiIMXsqA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/02N4Ook2QdOAXiCiIMXsqA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/02N4Ook2QdOAXiCiIMXsqA/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/MBA9oTMjR5itQgSMMNAqLw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/MBA9oTMjR5itQgSMMNAqLw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/MBA9oTMjR5itQgSMMNAqLw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/MBA9oTMjR5itQgSMMNAqLw/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hSTZcTJBSqi3pILM%2BiBAJA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hSTZcTJBSqi3pILM%2BiBAJA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hSTZcTJBSqi3pILM%2BiBAJA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hSTZcTJBSqi3pILM%2BiBAJA/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 24672,
+        "make_year": 2019,
+        "price": 570000,
+        "added_on": "2021-08-05T16:18:31+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/swift/vxi-netaji-subhash-place-2019/915332/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "red",
+        "body_type": "hatchback",
+        "score": 3.7004123901247428,
+        "rto": "DL5C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "India's largest selling premium hatchback gets a mild facelift and a 10 percent improvement in fuel economy for both the petrol and diesel engines. This update makes the Swift a stronger challenger in this segment",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "India's largest selling premium hatchback gets a mild facelift and a 10 percent improvement in fuel economy for both the petrol and diesel engines. This update makes the Swift a stronger challenger in this segment",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/4_hzY45aTb6_IuNHyCIqyQ/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/%2B6Xtw7bpR3qN5lP3%2BgA2sw/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": 738000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 4,
+            "day": 26,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1142449,
+        "make": "Maruti Suzuki",
+        "model": "Baleno",
+        "variant": "Delta AT Petrol",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Yk2Lyl6pQQiUuI0OvhU53A/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Yk2Lyl6pQQiUuI0OvhU53A/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Yk2Lyl6pQQiUuI0OvhU53A/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Yk2Lyl6pQQiUuI0OvhU53A/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/oy163c%2BcRwukBUq3X090Nw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/oy163c%2BcRwukBUq3X090Nw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/oy163c%2BcRwukBUq3X090Nw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/oy163c%2BcRwukBUq3X090Nw/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/9xmve5jvR7mmZ29rUBcAAA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/9xmve5jvR7mmZ29rUBcAAA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/9xmve5jvR7mmZ29rUBcAAA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/9xmve5jvR7mmZ29rUBcAAA/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/gLon2xpbS4yUer9QKJZtvw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/gLon2xpbS4yUer9QKJZtvw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/gLon2xpbS4yUer9QKJZtvw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/gLon2xpbS4yUer9QKJZtvw/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/LEwFpGywRXaJqyaH4eEOew/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/LEwFpGywRXaJqyaH4eEOew/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/LEwFpGywRXaJqyaH4eEOew/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/LEwFpGywRXaJqyaH4eEOew/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Fhtj4_X3TBSHoNTQ8vhbAQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Fhtj4_X3TBSHoNTQ8vhbAQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Fhtj4_X3TBSHoNTQ8vhbAQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Fhtj4_X3TBSHoNTQ8vhbAQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/WsQ%2B4bJeT4%2BRaljsgOtTBw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/WsQ%2B4bJeT4%2BRaljsgOtTBw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/WsQ%2B4bJeT4%2BRaljsgOtTBw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/WsQ%2B4bJeT4%2BRaljsgOtTBw/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/JLJbZrmJRii4PMc2sCIxAg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/JLJbZrmJRii4PMc2sCIxAg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/JLJbZrmJRii4PMc2sCIxAg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/JLJbZrmJRii4PMc2sCIxAg/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 33546,
+        "make_year": 2016,
+        "price": 541000,
+        "added_on": "2021-09-13T15:27:29+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/baleno/delta-at-petrol-dwarka-sector-21-2016/1142449/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "blue",
+        "body_type": "hatchback",
+        "score": 3.975,
+        "rto": "DL12",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The Baleno offers good space, efficiency and features but comes with a sub-par set of engines. Buy it for hasslefree Maruti ownership experienceBaleno Detailed Review",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The Baleno offers good space, efficiency and features but comes with a sub-par set of engines. Buy it for hasslefree Maruti ownership experienceBaleno Detailed Review",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/oy163c%2BcRwukBUq3X090Nw/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/Yk2Lyl6pQQiUuI0OvhU53A/file"
+        },
+        "transmission": "automatic",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 805000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 5,
+            "day": 31,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 871777,
+        "make": "Mahindra",
+        "model": "Scorpio",
+        "variant": "S10 1.99",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/KexWEeaOT2qIQpF7b66DnA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/KexWEeaOT2qIQpF7b66DnA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/KexWEeaOT2qIQpF7b66DnA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/KexWEeaOT2qIQpF7b66DnA/file.jpg"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/TZHZJEUCQmyeOb130L_7Hg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/TZHZJEUCQmyeOb130L_7Hg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/TZHZJEUCQmyeOb130L_7Hg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/TZHZJEUCQmyeOb130L_7Hg/file.jpg"
+                },
+                "file_label": "LEFT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/B9d7VLcwTEGdJBWdKvDunA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/B9d7VLcwTEGdJBWdKvDunA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/B9d7VLcwTEGdJBWdKvDunA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/B9d7VLcwTEGdJBWdKvDunA/file.jpg"
+                },
+                "file_label": "LEFT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/WKmKmoZkTDaUNtaKWWZduA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/WKmKmoZkTDaUNtaKWWZduA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/WKmKmoZkTDaUNtaKWWZduA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/WKmKmoZkTDaUNtaKWWZduA/file.jpg"
+                },
+                "file_label": "BACK VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/aHQ9fMzFQRq4%2B1BF51hGpQ/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/aHQ9fMzFQRq4%2B1BF51hGpQ/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/aHQ9fMzFQRq4%2B1BF51hGpQ/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/aHQ9fMzFQRq4%2B1BF51hGpQ/file.jpg"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/%2B%2BHQk3kbSym%2Bk%2BWN%2BL3Keg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/%2B%2BHQk3kbSym%2Bk%2BWN%2BL3Keg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/%2B%2BHQk3kbSym%2Bk%2BWN%2BL3Keg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/%2B%2BHQk3kbSym%2Bk%2BWN%2BL3Keg/file.jpg"
+                },
+                "file_label": "RIGHT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ISt2K9xMTNelBGmBAg7Ocg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ISt2K9xMTNelBGmBAg7Ocg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ISt2K9xMTNelBGmBAg7Ocg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ISt2K9xMTNelBGmBAg7Ocg/file.jpg"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/22BhZSnjSq%2BOU_SZ6M_trA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/22BhZSnjSq%2BOU_SZ6M_trA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/22BhZSnjSq%2BOU_SZ6M_trA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/22BhZSnjSq%2BOU_SZ6M_trA/file.jpg"
+                },
+                "file_label": "FRONT VIEW"
+            }
+        ],
+        "mileage": 99033,
+        "make_year": 2017,
+        "price": 1121000,
+        "added_on": "2021-07-22T22:35:50+05:30",
+        "permanent_url": "/buy-used-cars/delhi/mahindra/scorpio/s10-199-dwarka-sector-21-2017/871777/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "suv",
+        "score": 3.4237199234003386,
+        "rto": "DL12",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The new Scorpio isn't a mere a facelift but almost a new generation vehicle with a new chassis, almost all new body panels and much-improved ride and handling. It looks good too and can seat seven. With an aggressive price tag, it makes a good case for itself",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The new Scorpio isn't a mere a facelift but almost a new generation vehicle with a new chassis, almost all new body panels and much-improved ride and handling. It looks good too and can seat seven. With an aggressive price tag, it makes a good case for itself",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/TZHZJEUCQmyeOb130L_7Hg/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/KexWEeaOT2qIQpF7b66DnA/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": false,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 5,
+            "day": 28,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 871683,
+        "make": "Maruti Suzuki",
+        "model": "Dzire",
+        "variant": "VDI",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/rg_8DvU9RWuBfQD22ZOzNQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/rg_8DvU9RWuBfQD22ZOzNQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/rg_8DvU9RWuBfQD22ZOzNQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/rg_8DvU9RWuBfQD22ZOzNQ/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/I61DRjdhSbK1YXsRFDDzgQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/I61DRjdhSbK1YXsRFDDzgQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/I61DRjdhSbK1YXsRFDDzgQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/I61DRjdhSbK1YXsRFDDzgQ/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/DySwuXE5RoW%2BRI75cWOuJg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/DySwuXE5RoW%2BRI75cWOuJg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/DySwuXE5RoW%2BRI75cWOuJg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/DySwuXE5RoW%2BRI75cWOuJg/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/XOPbN%2BIXTfWL9%2B8X8tWi3A/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/XOPbN%2BIXTfWL9%2B8X8tWi3A/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/XOPbN%2BIXTfWL9%2B8X8tWi3A/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/XOPbN%2BIXTfWL9%2B8X8tWi3A/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/bzoQ2EevQWOuIiM32Ag1dg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/bzoQ2EevQWOuIiM32Ag1dg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/bzoQ2EevQWOuIiM32Ag1dg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/bzoQ2EevQWOuIiM32Ag1dg/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/oPSqG1JZTmCZTtcCofg7GQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/oPSqG1JZTmCZTtcCofg7GQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/oPSqG1JZTmCZTtcCofg7GQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/oPSqG1JZTmCZTtcCofg7GQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3pPOTcRaQgmuehECg5yv8A/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3pPOTcRaQgmuehECg5yv8A/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3pPOTcRaQgmuehECg5yv8A/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3pPOTcRaQgmuehECg5yv8A/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/9pbkQJq7RF6V855o9juxag/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/9pbkQJq7RF6V855o9juxag/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/9pbkQJq7RF6V855o9juxag/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/9pbkQJq7RF6V855o9juxag/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 62787,
+        "make_year": 2018,
+        "price": 593000,
+        "added_on": "2021-07-17T21:50:07+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/dzire/vdi-dwarka-sector-21-2018/871683/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "silver",
+        "body_type": "sedan",
+        "score": 3.5916812331678076,
+        "rto": "DL09",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/aXuiNmmvTm%2BxpbcT7XaanA/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/kTr9vonyS46EP530COHXhw/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 4,
+            "day": 29,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1158235,
+        "make": "Maruti Suzuki",
+        "model": "Swift",
+        "variant": "VXI AMT",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/rw5ywECmTSeqTSrbdpm4Iw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/rw5ywECmTSeqTSrbdpm4Iw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/rw5ywECmTSeqTSrbdpm4Iw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/rw5ywECmTSeqTSrbdpm4Iw/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/_IXPo5yGRIuQrCqMmmKlNA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/_IXPo5yGRIuQrCqMmmKlNA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/_IXPo5yGRIuQrCqMmmKlNA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/_IXPo5yGRIuQrCqMmmKlNA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/72MGrU06QTuvhtrfz_I6lw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/72MGrU06QTuvhtrfz_I6lw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/72MGrU06QTuvhtrfz_I6lw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/72MGrU06QTuvhtrfz_I6lw/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Veakiit5Qqqkh6BrcIm3og/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Veakiit5Qqqkh6BrcIm3og/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Veakiit5Qqqkh6BrcIm3og/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Veakiit5Qqqkh6BrcIm3og/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Agft2BgISs%2B0S2VYXxRfEg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Agft2BgISs%2B0S2VYXxRfEg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Agft2BgISs%2B0S2VYXxRfEg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Agft2BgISs%2B0S2VYXxRfEg/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Tfo3X1nJQMqgl0vNcrb0Ig/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Tfo3X1nJQMqgl0vNcrb0Ig/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Tfo3X1nJQMqgl0vNcrb0Ig/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Tfo3X1nJQMqgl0vNcrb0Ig/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hay8_1uhSHOnNgRk3Ik%2Bgw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hay8_1uhSHOnNgRk3Ik%2Bgw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hay8_1uhSHOnNgRk3Ik%2Bgw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hay8_1uhSHOnNgRk3Ik%2Bgw/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/F6nfYAr8RK2gUvHmOsGUQA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/F6nfYAr8RK2gUvHmOsGUQA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/F6nfYAr8RK2gUvHmOsGUQA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/F6nfYAr8RK2gUvHmOsGUQA/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 20582,
+        "make_year": 2019,
+        "price": 595000,
+        "added_on": "2021-09-12T22:46:11+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/swift/vxi-amt-dwarka-sector-21-2019/1158235/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "blue",
+        "body_type": "hatchback",
+        "score": 3.8292884498430917,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "India's largest selling premium hatchback gets a mild facelift and a 10 percent improvement in fuel economy for both the petrol and diesel engines. This update makes the Swift a stronger challenger in this segment",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "India's largest selling premium hatchback gets a mild facelift and a 10 percent improvement in fuel economy for both the petrol and diesel engines. This update makes the Swift a stronger challenger in this segment",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/_IXPo5yGRIuQrCqMmmKlNA/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/rw5ywECmTSeqTSrbdpm4Iw/file"
+        },
+        "transmission": "automatic",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 807000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 7,
+            "day": 16,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 855766,
+        "make": "Maruti Suzuki",
+        "model": "Vitara Brezza",
+        "variant": "VDi (O)",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Vrlp2uC2Rji%2BK6iVAIBHnQ/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Vrlp2uC2Rji%2BK6iVAIBHnQ/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Vrlp2uC2Rji%2BK6iVAIBHnQ/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Vrlp2uC2Rji%2BK6iVAIBHnQ/file.jpg"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/cj81JlLSThWja_T9vKeV3A/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/cj81JlLSThWja_T9vKeV3A/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/cj81JlLSThWja_T9vKeV3A/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/cj81JlLSThWja_T9vKeV3A/file.jpg"
+                },
+                "file_label": "LEFT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/OR9hK6ZGRi2k_IjcS8BHfA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/OR9hK6ZGRi2k_IjcS8BHfA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/OR9hK6ZGRi2k_IjcS8BHfA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/OR9hK6ZGRi2k_IjcS8BHfA/file.jpg"
+                },
+                "file_label": "LEFT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/olWbjjUQRYaKGDRFgFLqpg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/olWbjjUQRYaKGDRFgFLqpg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/olWbjjUQRYaKGDRFgFLqpg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/olWbjjUQRYaKGDRFgFLqpg/file.jpg"
+                },
+                "file_label": "BACK VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/IGF3sT95S9iN6BtVmNLdjA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/IGF3sT95S9iN6BtVmNLdjA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/IGF3sT95S9iN6BtVmNLdjA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/IGF3sT95S9iN6BtVmNLdjA/file.jpg"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/G15b8Q0LS0%2BylIUK4okhKQ/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/G15b8Q0LS0%2BylIUK4okhKQ/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/G15b8Q0LS0%2BylIUK4okhKQ/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/G15b8Q0LS0%2BylIUK4okhKQ/file.jpg"
+                },
+                "file_label": "RIGHT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/IbIL2EoCR0ul_iKYOYD9eg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/IbIL2EoCR0ul_iKYOYD9eg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/IbIL2EoCR0ul_iKYOYD9eg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/IbIL2EoCR0ul_iKYOYD9eg/file.jpg"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/a8dWWlJ%2BS7qF7P6Zw0VEIg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/a8dWWlJ%2BS7qF7P6Zw0VEIg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/a8dWWlJ%2BS7qF7P6Zw0VEIg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/a8dWWlJ%2BS7qF7P6Zw0VEIg/file.jpg"
+                },
+                "file_label": "FRONT VIEW"
+            }
+        ],
+        "mileage": 90344,
+        "make_year": 2016,
+        "price": 587000,
+        "added_on": "2021-07-23T17:53:45+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/vitara-brezza/vdi-o-dwarka-sector-21-2016/855766/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "silver",
+        "body_type": "suv",
+        "score": 3.6029344904504086,
+        "rto": "DL1C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The new compact SUV, the Maruti Suzuki Vitara Brezza is a no-nonsense car for someone that wants to buy a reliable, stylish and yet, very well-equipped SUV with adequate performance.Vitara Brezza Detailed Review",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The new compact SUV, the Maruti Suzuki Vitara Brezza is a no-nonsense car for someone that wants to buy a reliable, stylish and yet, very well-equipped SUV with adequate performance.Vitara Brezza Detailed Review",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/cj81JlLSThWja_T9vKeV3A/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/Vrlp2uC2Rji%2BK6iVAIBHnQ/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 970000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": false,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1113131,
+        "make": "Renault",
+        "model": "Duster",
+        "variant": "85 PS RxL",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/xeWlEv9ZQgyBXQF92hkJbg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/xeWlEv9ZQgyBXQF92hkJbg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/xeWlEv9ZQgyBXQF92hkJbg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/xeWlEv9ZQgyBXQF92hkJbg/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/tARW0eGYQ5yIaEbAzZsURQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/tARW0eGYQ5yIaEbAzZsURQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/tARW0eGYQ5yIaEbAzZsURQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/tARW0eGYQ5yIaEbAzZsURQ/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/P4IdAYPsTJqOeehrk6zLAg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/P4IdAYPsTJqOeehrk6zLAg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/P4IdAYPsTJqOeehrk6zLAg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/P4IdAYPsTJqOeehrk6zLAg/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/YwUSCrjwTt22MJ8abZGnoQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/YwUSCrjwTt22MJ8abZGnoQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/YwUSCrjwTt22MJ8abZGnoQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/YwUSCrjwTt22MJ8abZGnoQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/BGJH03y%2BSNufk2G80ZvoeA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/BGJH03y%2BSNufk2G80ZvoeA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/BGJH03y%2BSNufk2G80ZvoeA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/BGJH03y%2BSNufk2G80ZvoeA/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/wSbYpAGmSfOAtHeafpKwGQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/wSbYpAGmSfOAtHeafpKwGQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/wSbYpAGmSfOAtHeafpKwGQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/wSbYpAGmSfOAtHeafpKwGQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/SzCOYeEsQZ6ElGi%2BM9fHIQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/SzCOYeEsQZ6ElGi%2BM9fHIQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/SzCOYeEsQZ6ElGi%2BM9fHIQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/SzCOYeEsQZ6ElGi%2BM9fHIQ/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/zmDe%2Bb8yR1azZTAfsJEw0w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/zmDe%2Bb8yR1azZTAfsJEw0w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/zmDe%2Bb8yR1azZTAfsJEw0w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/zmDe%2Bb8yR1azZTAfsJEw0w/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 49619,
+        "make_year": 2014,
+        "price": 399000,
+        "added_on": "2021-09-12T22:44:58+05:30",
+        "permanent_url": "/buy-used-cars/delhi/renault/duster/85-ps-rxl-netaji-subhash-place-2014/1113131/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "silver",
+        "body_type": "suv",
+        "score": 3.975,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "This new 2016 Renault Duster retains the DNA that it has been praised for and brings more features to the table. With good petrol and diesel engine options and now a diesel AMT on offer, the Duster is a tough competitor in the compact SUV space.",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "This new 2016 Renault Duster retains the DNA that it has been praised for and brings more features to the table. With good petrol and diesel engine options and now a diesel AMT on offer, the Duster is a tough competitor in the compact SUV space.",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/tARW0eGYQ5yIaEbAzZsURQ/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/xeWlEv9ZQgyBXQF92hkJbg/file"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": 1025000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1062194,
+        "make": "Nissan",
+        "model": "Sunny",
+        "variant": "XE",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/mhH7inhDTjuA_mbwSPCmdg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/mhH7inhDTjuA_mbwSPCmdg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/mhH7inhDTjuA_mbwSPCmdg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/mhH7inhDTjuA_mbwSPCmdg/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/6dKopLu0QCi94EVscrG3IA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/6dKopLu0QCi94EVscrG3IA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/6dKopLu0QCi94EVscrG3IA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/6dKopLu0QCi94EVscrG3IA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/OD%2BG_yKkSiazQ7m6GJ06Vw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/OD%2BG_yKkSiazQ7m6GJ06Vw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/OD%2BG_yKkSiazQ7m6GJ06Vw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/OD%2BG_yKkSiazQ7m6GJ06Vw/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/gfqQ73mGRe20BxmsHMqDzQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/gfqQ73mGRe20BxmsHMqDzQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/gfqQ73mGRe20BxmsHMqDzQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/gfqQ73mGRe20BxmsHMqDzQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3GbbkwUESHmMBc6qIeF4vw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3GbbkwUESHmMBc6qIeF4vw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3GbbkwUESHmMBc6qIeF4vw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3GbbkwUESHmMBc6qIeF4vw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/NtO26Q6LQqq%2B_Fwr3ZUoDw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/NtO26Q6LQqq%2B_Fwr3ZUoDw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/NtO26Q6LQqq%2B_Fwr3ZUoDw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/NtO26Q6LQqq%2B_Fwr3ZUoDw/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/6wUbI7ztTg6r42%2B0fCxDAA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/6wUbI7ztTg6r42%2B0fCxDAA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/6wUbI7ztTg6r42%2B0fCxDAA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/6wUbI7ztTg6r42%2B0fCxDAA/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Xf%2BukatCQDi_o8pqaoRhvg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Xf%2BukatCQDi_o8pqaoRhvg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Xf%2BukatCQDi_o8pqaoRhvg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Xf%2BukatCQDi_o8pqaoRhvg/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 70129,
+        "make_year": 2012,
+        "price": 220000,
+        "added_on": "2021-09-12T22:38:36+05:30",
+        "permanent_url": "/buy-used-cars/delhi/nissan/sunny/xe-dwarka-sector-21-2012/1062194/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 2,
+        "color": "black",
+        "body_type": "sedan",
+        "score": 3.94803664999331,
+        "rto": "DL4C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The new Nissan Sunny is a well built sedan with good features, refinement and space, offered at a tempting price",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The new Nissan Sunny is a well built sedan with good features, refinement and space, offered at a tempting price",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/6dKopLu0QCi94EVscrG3IA/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/mhH7inhDTjuA_mbwSPCmdg/file"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 698000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 4,
+            "day": 24,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 853290,
+        "make": "Hyundai",
+        "model": "Creta",
+        "variant": "1.6 SX Plus Petrol",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Cg2M6Aj9RHuXo13tWdVGWw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Cg2M6Aj9RHuXo13tWdVGWw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Cg2M6Aj9RHuXo13tWdVGWw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Cg2M6Aj9RHuXo13tWdVGWw/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/YqEQV9IpTVCMZ9RCmTm2gQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/YqEQV9IpTVCMZ9RCmTm2gQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/YqEQV9IpTVCMZ9RCmTm2gQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/YqEQV9IpTVCMZ9RCmTm2gQ/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/He6vMDRCTmKOkMGYGhbcWQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/He6vMDRCTmKOkMGYGhbcWQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/He6vMDRCTmKOkMGYGhbcWQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/He6vMDRCTmKOkMGYGhbcWQ/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/GY5NSCB0Q6OurgM%2BIHHJCQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/GY5NSCB0Q6OurgM%2BIHHJCQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/GY5NSCB0Q6OurgM%2BIHHJCQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/GY5NSCB0Q6OurgM%2BIHHJCQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/oJbOiQe1TG6q2kbfAnWEng/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/oJbOiQe1TG6q2kbfAnWEng/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/oJbOiQe1TG6q2kbfAnWEng/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/oJbOiQe1TG6q2kbfAnWEng/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/eJI2pYnbS%2BmFfQo9j1Q6Ww/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/eJI2pYnbS%2BmFfQo9j1Q6Ww/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/eJI2pYnbS%2BmFfQo9j1Q6Ww/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/eJI2pYnbS%2BmFfQo9j1Q6Ww/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/qZsHhKIKSBGlEC2cVpdX8w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/qZsHhKIKSBGlEC2cVpdX8w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/qZsHhKIKSBGlEC2cVpdX8w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/qZsHhKIKSBGlEC2cVpdX8w/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/5kbrVQ3JQQGTwYBUv6OSSA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/5kbrVQ3JQQGTwYBUv6OSSA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/5kbrVQ3JQQGTwYBUv6OSSA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/5kbrVQ3JQQGTwYBUv6OSSA/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 49761,
+        "make_year": 2017,
+        "price": 922000,
+        "added_on": "2021-07-20T18:51:52+05:30",
+        "permanent_url": "/buy-used-cars/delhi/hyundai/creta/16-sx-plus-petrol-netaji-subhash-place-2017/853290/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "suv",
+        "score": 3.6220373430298896,
+        "rto": "DL01",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The Hyundai Creta is possibly the new benchmark when it comes to compact SUVs in India. With its great looks and interiors combined with a good driving experience, the Creta is certainly worth considering",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The Hyundai Creta is possibly the new benchmark when it comes to compact SUVs in India. With its great looks and interiors combined with a good driving experience, the Creta is certainly worth considering",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/ezmKGrmbQuKsmKH_SiEr_A/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/A3YHdQJVQvKtLdh1AbaHsQ/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 6,
+            "day": 29,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 827447,
+        "make": "Maruti Suzuki",
+        "model": "Alto K10",
+        "variant": "LXi",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/H4lPN_EQRFaqZI0eKHhSUA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/H4lPN_EQRFaqZI0eKHhSUA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/H4lPN_EQRFaqZI0eKHhSUA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/H4lPN_EQRFaqZI0eKHhSUA/file.jpg"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/rMXcendjSXWkmVYvZMSAhA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/rMXcendjSXWkmVYvZMSAhA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/rMXcendjSXWkmVYvZMSAhA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/rMXcendjSXWkmVYvZMSAhA/file.jpg"
+                },
+                "file_label": "LEFT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/6%2BwQNATATqW4jHwaR8Gw5Q/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/6%2BwQNATATqW4jHwaR8Gw5Q/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/6%2BwQNATATqW4jHwaR8Gw5Q/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/6%2BwQNATATqW4jHwaR8Gw5Q/file.jpg"
+                },
+                "file_label": "LEFT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/N4SzCeFTRH61R4dSaKHQSQ/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/N4SzCeFTRH61R4dSaKHQSQ/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/N4SzCeFTRH61R4dSaKHQSQ/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/N4SzCeFTRH61R4dSaKHQSQ/file.jpg"
+                },
+                "file_label": "BACK VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/wOatP6k4TOeu5e7UwrewZA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/wOatP6k4TOeu5e7UwrewZA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/wOatP6k4TOeu5e7UwrewZA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/wOatP6k4TOeu5e7UwrewZA/file.jpg"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hplRRmPLSy%2B1GysCPn0vyg/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hplRRmPLSy%2B1GysCPn0vyg/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hplRRmPLSy%2B1GysCPn0vyg/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hplRRmPLSy%2B1GysCPn0vyg/file.jpg"
+                },
+                "file_label": "RIGHT SIDE VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3jb1jzgfQzGzIvPuUMBkHA/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3jb1jzgfQzGzIvPuUMBkHA/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3jb1jzgfQzGzIvPuUMBkHA/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3jb1jzgfQzGzIvPuUMBkHA/file.jpg"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW"
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Ab4ougF9R%2BqEvMndDPr_Rw/mobile/file.jpg",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Ab4ougF9R%2BqEvMndDPr_Rw/thumb/file.jpg",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Ab4ougF9R%2BqEvMndDPr_Rw/tab/file.jpg",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Ab4ougF9R%2BqEvMndDPr_Rw/file.jpg"
+                },
+                "file_label": "FRONT VIEW"
+            }
+        ],
+        "mileage": 54905,
+        "make_year": 2013,
+        "price": 221000,
+        "added_on": "2021-07-22T16:07:11+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/alto-k10/lxi-dwarka-sector-21-2013/827447/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "hatchback",
+        "score": 3.975,
+        "rto": "DL2C",
+        "rto_state": "Delhi",
+        "seller_type": "dealer",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/rMXcendjSXWkmVYvZMSAhA/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/H4lPN_EQRFaqZI0eKHhSUA/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": false,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 6,
+            "day": 24,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1099391,
+        "make": "Mahindra",
+        "model": "XUV500",
+        "variant": "W6 1.99",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/4r1Yzv5OTsiqwVETFnIOiA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/4r1Yzv5OTsiqwVETFnIOiA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/4r1Yzv5OTsiqwVETFnIOiA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/4r1Yzv5OTsiqwVETFnIOiA/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Ad9ffT4BSRakTocgAXvneA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Ad9ffT4BSRakTocgAXvneA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Ad9ffT4BSRakTocgAXvneA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Ad9ffT4BSRakTocgAXvneA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/H_YDi7bdSwe365HmMqDTYw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/H_YDi7bdSwe365HmMqDTYw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/H_YDi7bdSwe365HmMqDTYw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/H_YDi7bdSwe365HmMqDTYw/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/VX%2BLR4pBSBqSZz22QR3JiA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/VX%2BLR4pBSBqSZz22QR3JiA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/VX%2BLR4pBSBqSZz22QR3JiA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/VX%2BLR4pBSBqSZz22QR3JiA/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Qo5qUYkzQwK1IXlZi%2BSwkw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Qo5qUYkzQwK1IXlZi%2BSwkw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Qo5qUYkzQwK1IXlZi%2BSwkw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Qo5qUYkzQwK1IXlZi%2BSwkw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/x6bofhCWQba2pD16wNcIxQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/x6bofhCWQba2pD16wNcIxQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/x6bofhCWQba2pD16wNcIxQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/x6bofhCWQba2pD16wNcIxQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/myVq2k0JRhG3yUy6yK1kXg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/myVq2k0JRhG3yUy6yK1kXg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/myVq2k0JRhG3yUy6yK1kXg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/myVq2k0JRhG3yUy6yK1kXg/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/9LirGLg9T765YGNaTi_0vA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/9LirGLg9T765YGNaTi_0vA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/9LirGLg9T765YGNaTi_0vA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/9LirGLg9T765YGNaTi_0vA/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 51609,
+        "make_year": 2017,
+        "price": 887000,
+        "added_on": "2021-09-12T22:36:10+05:30",
+        "permanent_url": "/buy-used-cars/delhi/mahindra/xuv500/w6-199-dwarka-sector-21-2017/1099391/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "grey",
+        "body_type": "suv",
+        "score": 3.9085528940662146,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/Ad9ffT4BSRakTocgAXvneA/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/4r1Yzv5OTsiqwVETFnIOiA/file"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 1680000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 993698,
+        "make": "Mahindra",
+        "model": "Scorpio",
+        "variant": "S8",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/liZRDl3HR9651Vz7QATcNw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/liZRDl3HR9651Vz7QATcNw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/liZRDl3HR9651Vz7QATcNw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/liZRDl3HR9651Vz7QATcNw/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ZqaF_ZWxQwGeXVMf6PxDeA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ZqaF_ZWxQwGeXVMf6PxDeA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ZqaF_ZWxQwGeXVMf6PxDeA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ZqaF_ZWxQwGeXVMf6PxDeA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/DsCck%2BsETpelEe4a80vptQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/DsCck%2BsETpelEe4a80vptQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/DsCck%2BsETpelEe4a80vptQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/DsCck%2BsETpelEe4a80vptQ/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Pl8r1K3oT66epS3xzExAnQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Pl8r1K3oT66epS3xzExAnQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Pl8r1K3oT66epS3xzExAnQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Pl8r1K3oT66epS3xzExAnQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/HOZZ8Pe_SfyfYWfZ%2BnWPYw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/HOZZ8Pe_SfyfYWfZ%2BnWPYw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/HOZZ8Pe_SfyfYWfZ%2BnWPYw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/HOZZ8Pe_SfyfYWfZ%2BnWPYw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/IcS6IxtHRHG8WNa3HJiG1Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/IcS6IxtHRHG8WNa3HJiG1Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/IcS6IxtHRHG8WNa3HJiG1Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/IcS6IxtHRHG8WNa3HJiG1Q/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Ro0sELulQMq2UpJKhH6LGQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Ro0sELulQMq2UpJKhH6LGQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Ro0sELulQMq2UpJKhH6LGQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Ro0sELulQMq2UpJKhH6LGQ/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/kzA3h5rcRWqako7Tgs_CUQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/kzA3h5rcRWqako7Tgs_CUQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/kzA3h5rcRWqako7Tgs_CUQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/kzA3h5rcRWqako7Tgs_CUQ/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 45379,
+        "make_year": 2017,
+        "price": 1142000,
+        "added_on": "2021-08-13T12:13:16+05:30",
+        "permanent_url": "/buy-used-cars/delhi/mahindra/scorpio/s8-netaji-subhash-place-2017/993698/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "suv",
+        "score": 3.975,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The new Scorpio isn't a mere a facelift but almost a new generation vehicle with a new chassis, almost all new body panels and much-improved ride and handling. It looks good too and can seat seven. With an aggressive price tag, it makes a good case for itself",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The new Scorpio isn't a mere a facelift but almost a new generation vehicle with a new chassis, almost all new body panels and much-improved ride and handling. It looks good too and can seat seven. With an aggressive price tag, it makes a good case for itself",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/od5gXELbR3Gn2PRv7JRd4w/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/bojkNZcYSnWt%2BCRQfTmmZw/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": 1475000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 755383,
+        "make": "Toyota",
+        "model": "Yaris",
+        "variant": "V",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/F6J0e2b8SkW4btDVnN8cFQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/F6J0e2b8SkW4btDVnN8cFQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/F6J0e2b8SkW4btDVnN8cFQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/F6J0e2b8SkW4btDVnN8cFQ/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/KvXTHfrySTqof2_sWiyAjA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/KvXTHfrySTqof2_sWiyAjA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/KvXTHfrySTqof2_sWiyAjA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/KvXTHfrySTqof2_sWiyAjA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/4zBWMgK2S7Gj0MgPO0igJg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/4zBWMgK2S7Gj0MgPO0igJg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/4zBWMgK2S7Gj0MgPO0igJg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/4zBWMgK2S7Gj0MgPO0igJg/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/GtWEYlyjSHGp8PiSPR94qg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/GtWEYlyjSHGp8PiSPR94qg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/GtWEYlyjSHGp8PiSPR94qg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/GtWEYlyjSHGp8PiSPR94qg/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ke_RP2swTyqD%2Bf_NHBsIDw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ke_RP2swTyqD%2Bf_NHBsIDw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ke_RP2swTyqD%2Bf_NHBsIDw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ke_RP2swTyqD%2Bf_NHBsIDw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Whzzr2w1QzuDRYEA7HURdQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Whzzr2w1QzuDRYEA7HURdQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Whzzr2w1QzuDRYEA7HURdQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Whzzr2w1QzuDRYEA7HURdQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/BMDsLBDOQK2srXkk0tiphQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/BMDsLBDOQK2srXkk0tiphQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/BMDsLBDOQK2srXkk0tiphQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/BMDsLBDOQK2srXkk0tiphQ/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ylPBVZ4rTOmgI%2BXTP3kIZw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ylPBVZ4rTOmgI%2BXTP3kIZw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ylPBVZ4rTOmgI%2BXTP3kIZw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ylPBVZ4rTOmgI%2BXTP3kIZw/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 21633,
+        "make_year": 2018,
+        "price": 866000,
+        "added_on": "2021-07-16T22:02:41+05:30",
+        "permanent_url": "/buy-used-cars/delhi/toyota/yaris/v-netaji-subhash-place-2018/755383/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "sedan",
+        "score": 3.975,
+        "rto": "DL10",
+        "rto_state": "Delhi",
+        "seller_type": "dealer",
+        "new_car": {
+            "on_road_price": null,
+            "active": true,
+            "description": "",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/kGBY1IxXRM61dmVeb%2BISaQ/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/Jf89bjPFTgqWoPw5DukmcQ/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1024808,
+        "make": "Maruti Suzuki",
+        "model": "Ciaz",
+        "variant": "Alpha AT Petrol",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Q7HbxGl%2BS%2BiOxjWa8y7TDg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Q7HbxGl%2BS%2BiOxjWa8y7TDg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Q7HbxGl%2BS%2BiOxjWa8y7TDg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Q7HbxGl%2BS%2BiOxjWa8y7TDg/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/2Hk9cIjWT7q4VjA3Ec83MA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/2Hk9cIjWT7q4VjA3Ec83MA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/2Hk9cIjWT7q4VjA3Ec83MA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/2Hk9cIjWT7q4VjA3Ec83MA/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/mljb7gMLTQmUqQ7m2jdf9Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/mljb7gMLTQmUqQ7m2jdf9Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/mljb7gMLTQmUqQ7m2jdf9Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/mljb7gMLTQmUqQ7m2jdf9Q/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/fR1ToEkQSAyR%2Bega5rh8Yw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/fR1ToEkQSAyR%2Bega5rh8Yw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/fR1ToEkQSAyR%2Bega5rh8Yw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/fR1ToEkQSAyR%2Bega5rh8Yw/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3B18tQumTMejqOiBpjDHIw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3B18tQumTMejqOiBpjDHIw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3B18tQumTMejqOiBpjDHIw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3B18tQumTMejqOiBpjDHIw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/m9JUpaQDSYSql6Ij7K0w9w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/m9JUpaQDSYSql6Ij7K0w9w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/m9JUpaQDSYSql6Ij7K0w9w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/m9JUpaQDSYSql6Ij7K0w9w/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/RkQv1Td9RSm0gmjfz6UtBg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/RkQv1Td9RSm0gmjfz6UtBg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/RkQv1Td9RSm0gmjfz6UtBg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/RkQv1Td9RSm0gmjfz6UtBg/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Z4a3qYlgQBy9niMrj1gicQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Z4a3qYlgQBy9niMrj1gicQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Z4a3qYlgQBy9niMrj1gicQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Z4a3qYlgQBy9niMrj1gicQ/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 37314,
+        "make_year": 2019,
+        "price": 925000,
+        "added_on": "2021-09-12T10:17:41+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/ciaz/alpha-at-petrol-netaji-subhash-place-2019/1024808/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "blue",
+        "body_type": "sedan",
+        "score": 3.3668593084084986,
+        "rto": "DL12",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": true,
+            "description": "Finally a worthy contender from Maruti to take on the Honda City and the Hyundai Verna. Good on space, good on equipment and easy to drive. It's fuel efficient too! The Maruti Ciaz then makes for a good city and highway car however it isn't a driver's delight.",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "Finally a worthy contender from Maruti to take on the Honda City and the Hyundai Verna. Good on space, good on equipment and easy to drive. It's fuel efficient too! The Maruti Ciaz then makes for a good city and highway car however it isn't a driver's delight.",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/2Hk9cIjWT7q4VjA3Ec83MA/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/Q7HbxGl%2BS%2BiOxjWa8y7TDg/file"
+        },
+        "transmission": "automatic",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": 1354507.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 7,
+            "day": 28,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 872214,
+        "make": "Maruti Suzuki",
+        "model": "Swift Dzire",
+        "variant": "VDI",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/CifMAXHiQ%2BuA8QB50XIe7w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/CifMAXHiQ%2BuA8QB50XIe7w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/CifMAXHiQ%2BuA8QB50XIe7w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/CifMAXHiQ%2BuA8QB50XIe7w/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Bv_EhgJqRY%2BQQk_KeIeBHQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Bv_EhgJqRY%2BQQk_KeIeBHQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Bv_EhgJqRY%2BQQk_KeIeBHQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Bv_EhgJqRY%2BQQk_KeIeBHQ/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/o%2BCPgA%2BCR2W7lT1V_RaMyw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/o%2BCPgA%2BCR2W7lT1V_RaMyw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/o%2BCPgA%2BCR2W7lT1V_RaMyw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/o%2BCPgA%2BCR2W7lT1V_RaMyw/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/9xlxSDvGTyq2Eqh1yE4w_Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/9xlxSDvGTyq2Eqh1yE4w_Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/9xlxSDvGTyq2Eqh1yE4w_Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/9xlxSDvGTyq2Eqh1yE4w_Q/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Plwm_2qlQOOiFnm9qmBEYg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Plwm_2qlQOOiFnm9qmBEYg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Plwm_2qlQOOiFnm9qmBEYg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Plwm_2qlQOOiFnm9qmBEYg/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hTeeOwuZRJ2_UMwxu91wGQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hTeeOwuZRJ2_UMwxu91wGQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hTeeOwuZRJ2_UMwxu91wGQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hTeeOwuZRJ2_UMwxu91wGQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/zg%2BpTk%2BsSKSAWOdqcinvzw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/zg%2BpTk%2BsSKSAWOdqcinvzw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/zg%2BpTk%2BsSKSAWOdqcinvzw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/zg%2BpTk%2BsSKSAWOdqcinvzw/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Mzis947LQwi1kQmq6Wnj8w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Mzis947LQwi1kQmq6Wnj8w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Mzis947LQwi1kQmq6Wnj8w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Mzis947LQwi1kQmq6Wnj8w/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 21114,
+        "make_year": 2014,
+        "price": 391000,
+        "added_on": "2021-07-18T18:10:22+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/swift-dzire/vdi-netaji-subhash-place-2014/872214/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "sedan",
+        "score": 3.975,
+        "rto": "DL02",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The Swift DZire is a no-nonsense, practical compact sedan from Maruti",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The Swift DZire is a no-nonsense, practical compact sedan from Maruti",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/vbYlDBGYSs64q4cr%2BL3nUw/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/K0ilO7T6TXmx3XIDLAMcoA/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 4,
+            "day": 15,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 998221,
+        "make": "Maruti Suzuki",
+        "model": "A-Star",
+        "variant": "Lxi",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/vhoIwVMuSceX7Sc%2Brfza9Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/vhoIwVMuSceX7Sc%2Brfza9Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/vhoIwVMuSceX7Sc%2Brfza9Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/vhoIwVMuSceX7Sc%2Brfza9Q/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/gah8QLe3QAKT_XlJ0Wxl%2BQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/gah8QLe3QAKT_XlJ0Wxl%2BQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/gah8QLe3QAKT_XlJ0Wxl%2BQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/gah8QLe3QAKT_XlJ0Wxl%2BQ/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hsrNWiQaTvWH%2BZ23BM3frQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hsrNWiQaTvWH%2BZ23BM3frQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hsrNWiQaTvWH%2BZ23BM3frQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hsrNWiQaTvWH%2BZ23BM3frQ/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/MzWQ%2B03fTs2z64LUG6lubQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/MzWQ%2B03fTs2z64LUG6lubQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/MzWQ%2B03fTs2z64LUG6lubQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/MzWQ%2B03fTs2z64LUG6lubQ/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/cz625kQkSrSMM9YyiXpkCQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/cz625kQkSrSMM9YyiXpkCQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/cz625kQkSrSMM9YyiXpkCQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/cz625kQkSrSMM9YyiXpkCQ/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/V3heU5nGTSWRgpl4HHnVpA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/V3heU5nGTSWRgpl4HHnVpA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/V3heU5nGTSWRgpl4HHnVpA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/V3heU5nGTSWRgpl4HHnVpA/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/Q_cJfbGeQ56X1u7sCXoF4Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/Q_cJfbGeQ56X1u7sCXoF4Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/Q_cJfbGeQ56X1u7sCXoF4Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/Q_cJfbGeQ56X1u7sCXoF4Q/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/7_Ec2JuJQZGPbiF_hwOg5Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/7_Ec2JuJQZGPbiF_hwOg5Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/7_Ec2JuJQZGPbiF_hwOg5Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/7_Ec2JuJQZGPbiF_hwOg5Q/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 89803,
+        "make_year": 2011,
+        "price": 225000,
+        "added_on": "2021-09-10T18:55:49+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/a-star/lxi-dwarka-sector-21-2011/998221/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "hatchback",
+        "score": 3.8775181639057554,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": null,
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": null,
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/gah8QLe3QAKT_XlJ0Wxl%2BQ/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/vhoIwVMuSceX7Sc%2Brfza9Q/file"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": 410000.0,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 8,
+            "day": 4,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 846070,
+        "make": "Hyundai",
+        "model": "Fluidic Verna 4S",
+        "variant": "1.6 CRDi S",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/hgQhgYBbSxC_ap%2BqgjCF0w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/hgQhgYBbSxC_ap%2BqgjCF0w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/hgQhgYBbSxC_ap%2BqgjCF0w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/hgQhgYBbSxC_ap%2BqgjCF0w/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/gwwkjB0jRayKOD2UJGzeNw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/gwwkjB0jRayKOD2UJGzeNw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/gwwkjB0jRayKOD2UJGzeNw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/gwwkjB0jRayKOD2UJGzeNw/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/1hVRXcbLQj2WQNw6dExyZA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/1hVRXcbLQj2WQNw6dExyZA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/1hVRXcbLQj2WQNw6dExyZA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/1hVRXcbLQj2WQNw6dExyZA/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/4G2i7CupRMuaN71szssYlg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/4G2i7CupRMuaN71szssYlg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/4G2i7CupRMuaN71szssYlg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/4G2i7CupRMuaN71szssYlg/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/q_Tj6CO3TYuUYheGXN8HAQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/q_Tj6CO3TYuUYheGXN8HAQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/q_Tj6CO3TYuUYheGXN8HAQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/q_Tj6CO3TYuUYheGXN8HAQ/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/HuqZkzqlT0aqOS4YVDFPaQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/HuqZkzqlT0aqOS4YVDFPaQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/HuqZkzqlT0aqOS4YVDFPaQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/HuqZkzqlT0aqOS4YVDFPaQ/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/o4tbxQuYSWKUDquEopvvCw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/o4tbxQuYSWKUDquEopvvCw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/o4tbxQuYSWKUDquEopvvCw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/o4tbxQuYSWKUDquEopvvCw/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/u3BStH6xSq2_xftsqzpsYg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/u3BStH6xSq2_xftsqzpsYg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/u3BStH6xSq2_xftsqzpsYg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/u3BStH6xSq2_xftsqzpsYg/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 59557,
+        "make_year": 2015,
+        "price": 603000,
+        "added_on": "2021-07-16T11:18:19+05:30",
+        "permanent_url": "/buy-used-cars/delhi/hyundai/fluidic-verna-4s/16-crdi-s-dwarka-sector-21-2015/846070/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "sedan",
+        "score": 3.975,
+        "rto": "DL01",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/zUZkOahPQBaOXZMYtTithQ/file.jpg"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/wDoHF%2BlzQ66Ue0a34wBJYg/file.jpg"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 6,
+            "day": 19,
+            "free": false
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1107307,
+        "make": "Maruti Suzuki",
+        "model": "Ciaz",
+        "variant": "Zeta AT Petrol",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/EmsEabWdSmmkr5SC5PIpPA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/EmsEabWdSmmkr5SC5PIpPA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/EmsEabWdSmmkr5SC5PIpPA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/EmsEabWdSmmkr5SC5PIpPA/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/_bWFApi4RDqX%2Bv%2Bbo6Vwxg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/_bWFApi4RDqX%2Bv%2Bbo6Vwxg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/_bWFApi4RDqX%2Bv%2Bbo6Vwxg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/_bWFApi4RDqX%2Bv%2Bbo6Vwxg/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/kSxCx4FfSQqcSlMZSOyv1w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/kSxCx4FfSQqcSlMZSOyv1w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/kSxCx4FfSQqcSlMZSOyv1w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/kSxCx4FfSQqcSlMZSOyv1w/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/6CvBrZc%2BRC%2BVltlA%2Bd_8ow/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/6CvBrZc%2BRC%2BVltlA%2Bd_8ow/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/6CvBrZc%2BRC%2BVltlA%2Bd_8ow/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/6CvBrZc%2BRC%2BVltlA%2Bd_8ow/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/nuxCDxFjSpGjWR0Gmz%2Bxog/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/nuxCDxFjSpGjWR0Gmz%2Bxog/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/nuxCDxFjSpGjWR0Gmz%2Bxog/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/nuxCDxFjSpGjWR0Gmz%2Bxog/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/IFnnAC8DQRKjBv_XhWeJXg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/IFnnAC8DQRKjBv_XhWeJXg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/IFnnAC8DQRKjBv_XhWeJXg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/IFnnAC8DQRKjBv_XhWeJXg/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/H13CasvXTjeE2g%2BnDiAnFA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/H13CasvXTjeE2g%2BnDiAnFA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/H13CasvXTjeE2g%2BnDiAnFA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/H13CasvXTjeE2g%2BnDiAnFA/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/T1UHRn%2B8Q6GYIM1VMSNPeQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/T1UHRn%2B8Q6GYIM1VMSNPeQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/T1UHRn%2B8Q6GYIM1VMSNPeQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/T1UHRn%2B8Q6GYIM1VMSNPeQ/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 92680,
+        "make_year": 2017,
+        "price": 628000,
+        "added_on": "2021-09-12T16:57:38+05:30",
+        "permanent_url": "/buy-used-cars/delhi/maruti-suzuki/ciaz/zeta-at-petrol-netaji-subhash-place-2017/1107307/",
+        "sold": false,
+        "locality": "Netaji Subhash Place",
+        "city": "Delhi",
+        "fuel_type": "petrol",
+        "no_of_owners": 1,
+        "color": "white",
+        "body_type": "sedan",
+        "score": 3.1955396264002554,
+        "rto": "DL10",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": true,
+            "description": "Finally a worthy contender from Maruti to take on the Honda City and the Hyundai Verna. Good on space, good on equipment and easy to drive. It's fuel efficient too! The Maruti Ciaz then makes for a good city and highway car however it isn't a driver's delight.",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "Finally a worthy contender from Maruti to take on the Honda City and the Hyundai Verna. Good on space, good on equipment and easy to drive. It's fuel efficient too! The Maruti Ciaz then makes for a good city and highway car however it isn't a driver's delight.",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/_bWFApi4RDqX%2Bv%2Bbo6Vwxg/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/EmsEabWdSmmkr5SC5PIpPA/file"
+        },
+        "transmission": "automatic",
+        "hub": "Spinny Car Hub, NSP, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    },
+    {
+        "id": 1099530,
+        "make": "Hyundai",
+        "model": "Elite i20",
+        "variant": "Magna 1.4 CRDI",
+        "images": [
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/JIzGvXatTF6zYo0n7xGJjQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/JIzGvXatTF6zYo0n7xGJjQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/JIzGvXatTF6zYo0n7xGJjQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/JIzGvXatTF6zYo0n7xGJjQ/file"
+                },
+                "file_label": "LEFT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/3%2BNJVT3NQd%2B2bTwDNMKddg/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/3%2BNJVT3NQd%2B2bTwDNMKddg/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/3%2BNJVT3NQd%2B2bTwDNMKddg/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/3%2BNJVT3NQd%2B2bTwDNMKddg/file"
+                },
+                "file_label": "LEFT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/NXBl7RSbTmymcVZvScCKBQ/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/NXBl7RSbTmymcVZvScCKBQ/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/NXBl7RSbTmymcVZvScCKBQ/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/NXBl7RSbTmymcVZvScCKBQ/file"
+                },
+                "file_label": "LEFT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/HMIKNTKXQo64cuacZKMiuA/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/HMIKNTKXQo64cuacZKMiuA/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/HMIKNTKXQo64cuacZKMiuA/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/HMIKNTKXQo64cuacZKMiuA/file"
+                },
+                "file_label": "BACK VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/_Ad4qpaNQqi1ODDxEeCRZw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/_Ad4qpaNQqi1ODDxEeCRZw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/_Ad4qpaNQqi1ODDxEeCRZw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/_Ad4qpaNQqi1ODDxEeCRZw/file"
+                },
+                "file_label": "RIGHT REAR CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/b8H71_CcSkyhV39yaOMBZw/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/b8H71_CcSkyhV39yaOMBZw/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/b8H71_CcSkyhV39yaOMBZw/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/b8H71_CcSkyhV39yaOMBZw/file"
+                },
+                "file_label": "RIGHT SIDE VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/_ujqRCQPT36hqAQIw%2Bv00w/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/_ujqRCQPT36hqAQIw%2Bv00w/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/_ujqRCQPT36hqAQIw%2Bv00w/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/_ujqRCQPT36hqAQIw%2Bv00w/file"
+                },
+                "file_label": "RIGHT FRONT CORNER VIEW",
+                "is_three_sixty_image": true
+            },
+            {
+                "file": {
+                    "moburl": "//d308ljkq6e62o1.cloudfront.net/img/ICLmXkADRXCngFrxs1FH6Q/mobile/file",
+                    "thumburl": "//d308ljkq6e62o1.cloudfront.net/img/ICLmXkADRXCngFrxs1FH6Q/thumb/file",
+                    "taburl": "//d308ljkq6e62o1.cloudfront.net/img/ICLmXkADRXCngFrxs1FH6Q/tab/file",
+                    "absurl": "//d308ljkq6e62o1.cloudfront.net/img/ICLmXkADRXCngFrxs1FH6Q/file"
+                },
+                "file_label": "FRONT VIEW",
+                "is_three_sixty_image": true
+            }
+        ],
+        "mileage": 49380,
+        "make_year": 2014,
+        "price": 410000,
+        "added_on": "2021-09-12T14:57:44+05:30",
+        "permanent_url": "/buy-used-cars/delhi/hyundai/elite-i20/magna-14-crdi-dwarka-sector-21-2014/1099530/",
+        "sold": false,
+        "locality": "Dwarka Sector 21",
+        "city": "Delhi",
+        "fuel_type": "diesel",
+        "no_of_owners": 1,
+        "color": "silver",
+        "body_type": "hatchback",
+        "score": 3.975,
+        "rto": "DL8C",
+        "rto_state": "Delhi",
+        "seller_type": "individual",
+        "new_car": {
+            "on_road_price": null,
+            "active": false,
+            "description": "The new Elite i20 is a step up in design and premium styling but sports the same engines and gearboxes.",
+            "blogs": [
+                {
+                    "title": "One of the safest cars under 5 Lacs category",
+                    "description": "The new Elite i20 is a step up in design and premium styling but sports the same engines and gearboxes.",
+                    "url": "http://www.google.com/"
+                }
+            ],
+            "depreciation": null
+        },
+        "main_image": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/3%2BNJVT3NQd%2B2bTwDNMKddg/file"
+        },
+        "thumbnail": {
+            "url": "//d308ljkq6e62o1.cloudfront.net/img/JIzGvXatTF6zYo0n7xGJjQ/file"
+        },
+        "transmission": "manual",
+        "hub": "Spinny Car Hub, Taj Vivanta, Dwarka, Delhi",
+        "on_road_price": null,
+        "booked": false,
+        "upcoming": false,
+        "expected_live_date": null,
+        "is_fixed_price": true,
+        "home_test_drive_available": true,
+        "showroom_visit_available": true,
+        "has_three_sixty_view": true,
+        "applicable_insurance_validity": {
+            "year": 2022,
+            "month": 9,
+            "day": 13,
+            "free": true
+        },
+        "on_hold": false,
+        "hold_end_time": null
+    }
+]
