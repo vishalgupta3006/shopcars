@@ -1,0 +1,32 @@
+.carFilterWrapper{
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    height: 500px;
+}
+.carFilter{
+    background: #fff;
+    max-height: 100%;
+    overflow: auto;
+    min-height: 800px;
+    border-radius: 8px;
+    padding: 20px 15px;
+    font-size: 16px;
+}
+.filterTitle{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto Condensed", sans-serif ;
+}
+.filterItems{
+    font-size: 16px;
+    border: 2px solid rgb(190, 188, 188);
+    margin: 10px 20px 10px 0;
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+}
+.selected{
+    background: #630063;
+    color: #fff;
+}

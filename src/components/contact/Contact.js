@@ -1,4 +1,4 @@
-import Topbar from "../Topbar";
+import Topbar from "../topbar/Topbar";
 import "./Contact.css";
 import ContactForm from "./ContactForm";
 import ContactAddress from "./ContactAddress";

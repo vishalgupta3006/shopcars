@@ -3,7 +3,7 @@
     background: #f2f3f5;
 }
 #contactUs .contactBG{
-    background-image: url(../images/contactBackground2.jpg);
+    background-image: url(../../images/contactBackground2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -33,8 +33,8 @@
 #contactUs .contactBG .contactInfo{
     display: flex;
     margin: 20px;
-    width: 25%;
-    justify-content: space-between;
+    width: 30%;
+    justify-content: space-around;
 }
 .formAndAddress{
     background:#fff;
@@ -50,6 +50,16 @@
     font-size: 24px;
     font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
+}
+@media (max-width: 1024px){
+    .formAndAddress{
+        grid-template-columns: 1fr;
+        width: 600px;
+    }
+    #contactUs .contactBG .contactInfo{
+        flex-wrap: wrap;
+    }
+    
 }
 .formAndAddress .contentWrapper{
     padding: 40px 20px;

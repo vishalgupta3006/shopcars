@@ -1,7 +1,7 @@
-import NewCars from "./NewCars";
-import OldCars from "./OldCars";
+import NewCars from "./components/newcars/NewCars";
+import OldCars from "./components/oldcars/OldCars";
 import { BrowserRouter as Router, Switch,Route } from "react-router-dom";
-import Contact from "./contact/Contact";
+import Contact from "./components/contact/Contact";
 
 const Routes = () =>{
     return(
