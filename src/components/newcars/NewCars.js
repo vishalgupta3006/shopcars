@@ -4,7 +4,7 @@ import Topbar from "../topbar/Topbar";
 import CarFilter from "../reusable/carFilter";
 import "./NewCars.css";
 import Loader from "../reusable/Loader";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { fetchCars } from "../../redux/methods/method";
 const NewCars = () => {
     const [items, setItems] = useState([]);
@@ -12,10 +12,10 @@ const NewCars = () => {
     const [error, setError] = useState(false);
     const dispatch = useDispatch();
     useEffect(()=>{
-        dispatch(fetchCars);
-        fetch("https://run.mocky.io/v3/404d85da-1f9f-4c3b-93a0-17cbe64417ad").
-        then(res=>res.json()).
-        then((res)=>{
+        dispatch(fetchCars());
+        fetch("https://run.mocky.io/v3/404d85da-1f9f-4c3b-93a0-17cbe64417ad")
+        .then(res=>res.json())
+        .then((res)=>{
             setItems(res);
             setIsLoaded(true);
         },
@@ -42,8 +42,8 @@ const NewCars = () => {
                         {
                             
                             (!isLoaded)? <Loader/>:
-                        items.map((element) =>
-                            <div className="carCardWrapper"><Carcard car={element}/></div>
+                        items.map((element, index) =>
+                            <div className="carCardWrapper" key = {index}><Carcard car={element}/></div>
                         )}
                     </div>
                 </div>

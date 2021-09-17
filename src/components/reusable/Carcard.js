@@ -1,4 +1,4 @@
-import { FaCar, FaHome, FaLocationArrow, FaMapMarker, FaSearchLocation } from "react-icons/fa";
+import { FaHome, FaLocationArrow} from "react-icons/fa";
 import "./Carcard.css"
 import { IconContext } from "react-icons";
 
@@ -15,10 +15,9 @@ const Carcard = props => {
         let curr = num.toLocaleString('en-IN');
         return curr;
     };
-
     return (
-        <div className="carCard" key = {props.car.variant}>
-            <div className="imageWrapper"><img src={props.car.main_image.url} /></div>
+        <div className="carCard">
+            <div className="imageWrapper"><img alt = "car_image"src={props.car.main_image.url} /></div>
             <div className="carDetails">
                 <div className="carModel">{props.car.make_year} {props.car.make} {props.car.model} {props.car.variant}</div>
                 <div className="miscDetails">

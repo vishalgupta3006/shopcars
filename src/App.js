@@ -1,7 +1,7 @@
 import { Provider } from 'react-redux';
 import './App.css';
 import Routes from './Routes';
-import store from './app/store';
+import store from './redux/store';
 function App() {
   return (
     <Provider store={store} >

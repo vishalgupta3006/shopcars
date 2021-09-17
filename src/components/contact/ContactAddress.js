@@ -19,7 +19,7 @@ const ContactAddress = () => {
                         <a href="https://www.google.co.in/maps">View On Google Map &#62;</a>
                     </div>
                 </div>
-                <div className="mapIframe"><iframe loading="lazy" src={"https://www.google.com/maps/embed/v1/place?key=AIzaSyCpv-nr7sgbE_Peqq8ztFMCa46xTbw_GUM&q=place_id:ChIJ-VRVlRoUrjsR9HBLkQ3qxY4"}>
+                <div className="mapIframe"><iframe title="google-map" loading="lazy" src={"https://www.google.com/maps/embed/v1/place?key=AIzaSyCpv-nr7sgbE_Peqq8ztFMCa46xTbw_GUM&q=place_id:ChIJ-VRVlRoUrjsR9HBLkQ3qxY4"}>
                 </iframe></div>
             </div>
 

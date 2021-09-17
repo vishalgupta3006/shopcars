@@ -1,6 +1,4 @@
-import { FaCarrot, FaSearch } from "react-icons/fa";
 import "./ContactForm.css";
-import { IconContext } from "react-icons";
 const ContactForm = () => {
     return (
         <div id="contactFormWrapper">
