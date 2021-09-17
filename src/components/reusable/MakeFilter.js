@@ -1,5 +1,5 @@
 const MakeFilter = (props) => {
-    console.log(props);
+    //console.log(props);
     return (
         <div className="makeFilter">
             <div className="filterTitle">Make</div>
