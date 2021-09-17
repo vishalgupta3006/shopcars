@@ -1,6 +1,7 @@
 import { FaHome, FaLocationArrow} from "react-icons/fa";
 import "./Carcard.css"
 import { IconContext } from "react-icons";
+import { useHistory } from "react-router";
 
 const Carcard = props => {
     const toIndianCurrency = (num) => {
@@ -15,8 +16,9 @@ const Carcard = props => {
         let curr = num.toLocaleString('en-IN');
         return curr;
     };
+    const history = useHistory();
     return (
-        <div className="carCard">
+        <div className="carCard" onClick = {()=>{history.push("./car-details"+props.car.permanent_url)}}>
             <div className="imageWrapper"><img alt = "car_image"src={props.car.main_image.url} /></div>
             <div className="carDetails">
                 <div className="carModel">{props.car.make_year} {props.car.make} {props.car.model} {props.car.variant}</div>

@@ -2,6 +2,7 @@ import NewCars from "./components/newcars/NewCars";
 import OldCars from "./components/oldcars/OldCars";
 import { BrowserRouter as Router, Switch,Route } from "react-router-dom";
 import Contact from "./components/contact/Contact";
+import CarDetails from './components/cardetails/Cardetails';
 
 const Routes = () =>{
     return(
@@ -15,6 +16,9 @@ const Routes = () =>{
                 </Route>
                 <Route path="/contact" exact>
                     <Contact />
+                </Route>
+                <Route path="/car-details/">
+                    <CarDetails />
                 </Route>
             </Switch>
         </Router>
