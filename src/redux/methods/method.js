@@ -3,15 +3,15 @@ import { fetchCarsError, fetchCarsPending, fetchCarsSuccess } from "../actions/a
 export function fetchCars() {
     return dispatch => {
 
-        //dispatch(fetchCarsPending());
-        dispatch({type: "CARS_FETCH_PENDING"});
+        dispatch(fetchCarsPending());
+        //dispatch({type: "CARS_FETCH_PENDING"});
         fetch("https://run.mocky.io/v3/404d85da-1f9f-4c3b-93a0-17cbe64417ad")
             .then(res => res.json())
             .then((res) => {
                 if(res.error){
                     throw(res.error);
                 }
-                console.log("Inside the fetchUser method",res);
+                //console.log("Inside the fetchUser method",res);
                 dispatch(fetchCarsSuccess(res));
                 return res;
                 }

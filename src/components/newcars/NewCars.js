@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import Carcard from "../reusable/Carcard";
 import Topbar from "../topbar/Topbar";
 import CarFilter from "../reusable/carFilter";
@@ -10,8 +10,8 @@ const NewCars = () => {
     const dispatch = useDispatch();
     useEffect(()=>{
         dispatch(fetchCars());
-        
     },[]);
+    
     const isLoading = useSelector(state=> state.fetchCarsInfo.isCarListLoading);
     const cars = useSelector(state=> state.fetchCarsInfo.carList);
     return (

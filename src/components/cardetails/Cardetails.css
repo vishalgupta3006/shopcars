@@ -1,0 +1,11 @@
+#carDetailsPage{
+    display: flex;
+    flex-direction: column;
+}
+.carDetailsWrapper{
+    height: 50px;
+    margin:20px 10%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+}

@@ -1,4 +1,3 @@
-import { combineReducers } from "redux";
 import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS } from "../actions/action";
 
 const initialState = {
@@ -31,6 +30,3 @@ export function fetchCarsInfo(state = initialState, action) {
             return state;
     }
 }
-export default combineReducers({
-    fetchCarsInfo
-})

@@ -17,7 +17,7 @@ const Routes = () =>{
                 <Route path="/contact" exact>
                     <Contact />
                 </Route>
-                <Route path="/car-details/">
+                <Route path="/car-details/:id">
                     <CarDetails />
                 </Route>
             </Switch>
