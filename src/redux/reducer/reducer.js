@@ -15,6 +15,7 @@ export function fetchCarsInfo(state = initialState, action) {
                 isCarListLoading: true
             }
         case CARS_FETCH_SUCCESS:
+            console.log("inside the reducer",action);
             return {
                 ...state,
                 carList: action.list,

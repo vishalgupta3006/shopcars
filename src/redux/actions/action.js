@@ -1,6 +1,6 @@
-export const CARS_FETCH_PENDING = "CARS_FETCH_SUCCESS";
+export const CARS_FETCH_PENDING = "CARS_FETCH_PENDING";
 export const CARS_FETCH_SUCCESS = "CARS_FETCH_SUCCESS";
-export const CARS_FETCH_ERROR = "CARS_FETCH_SUCCESS";
+export const CARS_FETCH_ERROR = "CARS_FETCH_ERROR";
 
 export function fetchCarsPending() {
     return {
