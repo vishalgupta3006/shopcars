@@ -17,12 +17,15 @@
 .thumbnailImageWrapper{
     height: 90px;
     margin: 16px 16px 16px 0;
+    border-radius: 8px;
 }
 .thumbnailImage{
     height: 100%;
     width: 150px;
     border-radius: 8px;
     transition: transform 0.2s ease-out;
+    border:1px solid grey;
+
 }
 .thumbnailImage:hover{
     transform: scale(1.06);
