@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { useParams } from "react-router";
+import { useHistory, useParams } from "react-router";
 import Topbar from "../topbar/Topbar";
 import { getCarDetails } from "../../redux/methods/carDetails";
 import Page404 from '../reusable/404Page';
@@ -11,6 +11,8 @@ const CarDetails =() =>{
 
     const params = useParams();
     const dispatch = useDispatch();
+    const history = useHistory();
+    //eslint-disable-next-line
     useEffect(()=>{
         dispatch(getCarDetails(params.id));
     },[])
@@ -40,8 +42,7 @@ const CarDetails =() =>{
         </div>
     )}
     else
-    return(
-        <Page404 />
-    )
+        history.push("/error")
+    return("error");
 }
 export default CarDetails;

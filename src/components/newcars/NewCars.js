@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import Carcard from "../reusable/Carcard";
 import Topbar from "../topbar/Topbar";
 import CarFilter from "../reusable/carFilter";
@@ -6,14 +6,29 @@ import "./NewCars.css";
 import Loader from "../reusable/Loader";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCars } from "../../redux/methods/method";
+import { incrementPage } from "../../redux/actions/action";
+
 const NewCars = () => {
+
     const dispatch = useDispatch();
-    useEffect(()=>{
-        dispatch(fetchCars());
-    },[]);
-    
-    const isLoading = useSelector(state=> state.fetchCarsInfo.isCarListLoading);
-    const cars = useSelector(state=> state.fetchCarsInfo.carList);
+    const page = useSelector(state => state.fetchCarsInfo.pageNumber);
+    const isLoading = useSelector(state => state.fetchCarsInfo.isCarListLoading);
+    const cars = useSelector(state => state.fetchCarsInfo.carList);
+    const hasMore = useSelector(state => state.fetchCarsInfo.hasMore);
+
+    const observer = useRef();
+    const lastCarElement = useCallback(node => {
+        if (isLoading) return
+        if (observer.current) observer.current.disconnect();
+        observer.current = new IntersectionObserver(element => {
+            if (element[0].isIntersecting && hasMore)
+                    dispatch(incrementPage());
+        })
+        if (node) observer.current.observe(node);
+    })
+    useEffect(() => {
+        dispatch(fetchCars(page));
+    }, [page]);
     return (
         <div id="newCarsContainer">
             <div className="topbarContainer">
@@ -25,11 +40,17 @@ const NewCars = () => {
                         <CarFilter />
                     </div>
                     <div className="cardContainer">
-                        { 
-                            (isLoading)? <Loader/>:
-                        cars.map((element, index) =>
-                            <div className="carCardWrapper" key = {index}><Carcard car={element}/></div>
-                        )}
+                        {
+                            (isLoading && cars === []) ? <Loader /> :
+                            cars.map((element, index) => {
+                                if (index + 1 === cars.length) {
+                                    return <div className="carCardWrapper" ref={lastCarElement} key={element.id}><Carcard car={element} /></div>
+                                }
+                                else
+                                    return <div className="carCardWrapper" key={element.id}><Carcard car={element} /></div>
+                            })
+                        }
+                        { (isLoading) ? <Loader /> : <div>loaded</div>}
                     </div>
                 </div>
             </div>

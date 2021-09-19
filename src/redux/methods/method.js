@@ -1,22 +1,29 @@
-import { fetchCarsError, fetchCarsPending, fetchCarsSuccess } from "../actions/action";
-
-export function fetchCars() {
+import axios from "axios";
+import { fetchCarsError, fetchCarsPending, fetchCarsSuccess, initialLoading } from "../actions/action";
+export function fetchCars(pageNumber) {
+    var hasMore = true;
+    
     return dispatch => {
-
         dispatch(fetchCarsPending());
-        //dispatch({type: "CARS_FETCH_PENDING"});
-        fetch("https://run.mocky.io/v3/404d85da-1f9f-4c3b-93a0-17cbe64417ad")
+        fetch("https://api.spinny.com/api/c/listings/?city=delhi-ncr&product_type=cars&category=used&&page=" + pageNumber)
             .then(res => res.json())
             .then((res) => {
-                if(res.error){
-                    throw(res.error);
+                if (res.error) {
+                    throw (res.error);
                 }
-                //console.log("Inside the fetchUser method",res);
-                dispatch(fetchCarsSuccess(res));
-                return res;
+                if (res.next === null)
+                    hasMore = false;
+                if (pageNumber === 1) {
+                    dispatch(initialLoading(res.results, hasMore));
                 }
+                else {
+                    dispatch(fetchCarsSuccess(res.results, hasMore));
+                }
+                return null;
+            }
             )
-            .catch(error=>{
+            .catch(error => {
+                console.log("there is error");
                 dispatch(fetchCarsError(error));
             })
     }
