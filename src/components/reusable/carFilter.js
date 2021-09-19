@@ -1,12 +1,11 @@
 import "./CarFilter.css";
-import data from "../../constants/spinny.json";
 import MakeFilter from "./MakeFilter";
 import { useSelector } from "react-redux";
-import { useEffect, useState } from "react";
 const CarFilter = () => {
     var arrOfMake = [];
     const cars = useSelector(state => state.fetchCarsInfo.carList);
     const isLoading = useSelector(state => state.fetchCarsInfo.isCarListLoading);
+    //eslint-disable-next-line
     cars.map((car)=>{
         arrOfMake.push(car.make);
     })

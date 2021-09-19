@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef } from "react";
 import Carcard from "../reusable/Carcard";
 import Topbar from "../topbar/Topbar";
 import CarFilter from "../reusable/carFilter";
@@ -9,13 +9,12 @@ import { fetchCars } from "../../redux/methods/method";
 import { incrementPage } from "../../redux/actions/action";
 
 const NewCars = () => {
-
     const dispatch = useDispatch();
     const page = useSelector(state => state.fetchCarsInfo.pageNumber);
     const isLoading = useSelector(state => state.fetchCarsInfo.isCarListLoading);
     const cars = useSelector(state => state.fetchCarsInfo.carList);
     const hasMore = useSelector(state => state.fetchCarsInfo.hasMore);
-
+    const loadedpages = useSelector(state => state.fetchCarsInfo.loadedPages);
     const observer = useRef();
     const lastCarElement = useCallback(node => {
         if (isLoading) return
@@ -25,10 +24,14 @@ const NewCars = () => {
                     dispatch(incrementPage());
         })
         if (node) observer.current.observe(node);
-    })
+    },[hasMore, isLoading, dispatch])
+
     useEffect(() => {
+        if(page === loadedpages)
+        return
         dispatch(fetchCars(page));
-    }, [page]);
+    }, [page,dispatch,loadedpages]);
+
     return (
         <div id="newCarsContainer">
             <div className="topbarContainer">

@@ -1,6 +1,4 @@
-import { useHistory } from "react-router";
-
-const Page404 = () => {
+export default function Page404() {
     return(
 
         <div className="errorPage">
@@ -8,4 +6,3 @@ const Page404 = () => {
         </div>
     )
 }
-export default Page404;

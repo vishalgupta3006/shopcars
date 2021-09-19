@@ -5,6 +5,7 @@ const ImageCarousel = () => {
 
     const car_details = useSelector(state => state.fetchCarDetails?.carDetails?.productDetail?.mobileImage?.allImages);
     const carImages = [];
+    //eslint-disable-next-line
     car_details?.map((item) => {
         carImages.push({ "image": item?.path, "caption": item?.label })
     })
@@ -14,8 +15,8 @@ const ImageCarousel = () => {
             <Carousel data={carImages} width="100%" radius="8px" slideNumber={true} />
             <div id ="thumbnailContainer">
             <div className="carouselThumbnails">
-                {   carImages.map((item) => {
-                        return <div className="thumbnailImageWrapper"><img class="thumbnailImage" src ={item.image}/></div>
+                {   carImages.map((item, index) => {
+                        return <div key={index} className="thumbnailImageWrapper"><img alt={item.caption} className="thumbnailImage" src ={item.image}/></div>
                     })
                 }
 

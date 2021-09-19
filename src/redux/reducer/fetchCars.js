@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INITIAL_LOAD, INCREAMENT_PAGE } from "../actions/action";
 
 const initialState = {
@@ -6,7 +5,8 @@ const initialState = {
     isCarListLoading: false,
     isErrorInCarList: false,
     hasMore: true,
-    pageNumber: 1
+    pageNumber: 1,
+    loadedPages: 0
 
 }
 export function fetchCarsInfo(state = initialState, action) {
@@ -17,12 +17,12 @@ export function fetchCarsInfo(state = initialState, action) {
                 isCarListLoading: true
             }
         case CARS_FETCH_SUCCESS:
-            console.log("inside the reducer", state.carList);
             return {
                 ...state,
                 carList: [...new Set([...state.carList, ...action.list])],
                 isCarListLoading: false,
-                hasMore: action.hasMore
+                hasMore: action.hasMore,
+                loadedPages: state.pageNumber
             }
 
         case CARS_FETCH_ERROR:
@@ -36,7 +36,8 @@ export function fetchCarsInfo(state = initialState, action) {
                 ...state,
                 carList: [...new Set(action.list)],
                 isCarListLoading: false,
-                hasMore: action.hasMore
+                hasMore: action.hasMore,
+                loadedPages: state.pageNumber
             }
         case INCREAMENT_PAGE:
             return {
