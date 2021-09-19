@@ -3,9 +3,10 @@
     flex-direction: column;
 }
 .carDetailsWrapper{
-    height: 50px;
-    margin:20px 10%;
+    margin:30px 10%;
     display: grid;
-    grid-template-columns: 3fr 1fr;
-
+    grid-template-columns: 5fr 2fr;
+}
+.carouselWrapper{
+    max-width: 850px;
 }

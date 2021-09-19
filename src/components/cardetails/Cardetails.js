@@ -7,6 +7,7 @@ import Page404 from '../reusable/404Page';
 import Loader from '../reusable/Loader'
 import './Cardetails.css'
 import ImageCarousel from "./ImageCarousel";
+import RenderDetails from "./RenderDetails";
 const CarDetails =() =>{
 
     const params = useParams();
@@ -26,7 +27,6 @@ const CarDetails =() =>{
         )
     }
     else if (!carDetailsError){
-        console.log(car_details)
     return(
         
         <div id = "carDetailsPage">
@@ -36,7 +36,9 @@ const CarDetails =() =>{
                 <ImageCarousel/>
 
                 </div>
-                <div className="detailsSection">Details</div>
+                <div className="detailsSection">
+                    <RenderDetails details={car_details?.productDetail}/>
+                </div>
             </div>
             
 

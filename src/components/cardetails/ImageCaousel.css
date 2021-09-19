@@ -1,9 +1,5 @@
-.carouselCom{
-    padding: 10px 30px;
-}
 #thumbnailContainer{
     position: relative;
-    max-width: 900px;
 }
 .carouselThumbnails{
     height:122px;
@@ -29,7 +25,4 @@
 }
 .thumbnailImage:hover{
     transform: scale(1.06);
-}
-.detailsSection{
-    background: red;
 }
