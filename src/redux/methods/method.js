@@ -1,14 +1,14 @@
 import axios from "axios";
 import { fetchCarsError, fetchCarsPending, fetchCarsSuccess } from "../actions/action";
 
-export function fetchCars(pageNumber) {
+export function fetchCars(pageNumber,city) {
     var hasMore = true;
     return dispatch => {
         dispatch(fetchCarsPending());
         axios({
             method: "GET",
             url: "https://api.spinny.com/api/c/listings/",
-            params: {product_type: "cars", category: "used", city: "delhi-ncr", page: pageNumber, make: "" }
+            params: {product_type: "cars", category: "used", city: city, page: pageNumber, make: "" }
         })
             .then(res => {
                 if (res.error) {
@@ -25,7 +25,6 @@ export function fetchCars(pageNumber) {
             })
     }
 }
-
 
 // export function fetchCarsOld(pageNumber) {
 //     var hasMore = true;

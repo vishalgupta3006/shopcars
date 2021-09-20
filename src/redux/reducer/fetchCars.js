@@ -1,4 +1,4 @@
-import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INCREAMENT_PAGE, CLEAR_DATA } from "../actions/action";
+import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INCREAMENT_PAGE, CLEAR_DATA, UPDATE_CITY } from "../actions/action";
 
 const initialState = {
     carList: [],
@@ -6,7 +6,8 @@ const initialState = {
     isErrorInCarList: false,
     hasMore: true,
     pageNumber: 1,
-    loadedPages: 0
+    loadedPages: 0,
+    selectedCity:'delhi-ncr'
 
 }
 export function fetchCarsInfo(state = initialState, action) {
@@ -42,6 +43,17 @@ export function fetchCarsInfo(state = initialState, action) {
                 carList: [],
                 pageNumber: 1,
                 loadedPages: 0
+            }
+        case UPDATE_CITY:
+            if(action.city !== state.selectedCity)
+            return{
+                ...state,
+                selectedCity: action.city,
+                pageNumber: 1,
+                carList: []
+            }
+            else{
+                return state;
             }
         default:
             return state;

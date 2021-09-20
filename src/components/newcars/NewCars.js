@@ -10,28 +10,27 @@ import { clearTheList, incrementPage } from "../../redux/actions/action";
 
 const NewCars = () => {
     const dispatch = useDispatch();
-    const page = useSelector(state => state.fetchCarsInfo.pageNumber);
+    const page = useSelector(state=> state.fetchCarsInfo.pageNumber);
     const isLoading = useSelector(state => state.fetchCarsInfo.isCarListLoading);
     const cars = useSelector(state => state.fetchCarsInfo.carList);
     const hasMore = useSelector(state => state.fetchCarsInfo.hasMore);
-    const loadedpages = useSelector(state => state.fetchCarsInfo.loadedPages);
+    const city = useSelector(state => state.fetchCarsInfo.selectedCity);
     const observer = useRef();
-
     const lastCarElement = useCallback(node => {
         if (isLoading) return
         if (observer.current) observer.current.disconnect();
         observer.current = new IntersectionObserver(element => {
-            if (element[0].isIntersecting && hasMore)
-                dispatch(incrementPage());
+            if (element[0].isIntersecting && hasMore) {
+                dispatch(incrementPage());              
+            }
         })
         if (node) observer.current.observe(node);
     }, [hasMore, isLoading, dispatch])
 
 
     useEffect(() => {
-        if (page != loadedpages)
-        dispatch(fetchCars(page));
-    }, [page, dispatch, loadedpages]);
+            dispatch(fetchCars(page,city));
+    }, [page,city,dispatch]);
 
     //To Clear the List to prevent memory leak issues
     useEffect(() => {

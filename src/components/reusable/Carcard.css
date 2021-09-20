@@ -9,7 +9,9 @@
     transition: transform 0.2s ease-out;
     border: 1px solid #e8e8e8;
     min-height: 250px;
-
+}
+a{
+    pointer-events: none;
 }
 .carCardWrapper{
     width: calc( 33% - 16px);

@@ -77,15 +77,15 @@
     position: absolute;
     background: #fff;
     margin-top: 60px;
-    display: flex;
-    flex-direction: column;
-    width: 150px;
+    display: grid;
     border-radius: 8px;
     z-index: 99;
     box-shadow: 0 2px 14px rgb(0 0 0 / 25%);
+    font-size: 18px;
+    line-height: 40px;
 }
 .cityOption{
-    width: 100%;
+    width: 150px;
     text-align: center;
 }
 .cityOptions .selectHeading{

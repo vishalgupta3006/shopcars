@@ -7,7 +7,7 @@ const ImageCarousel = () => {
     const carImages = [];
     //eslint-disable-next-line
     car_details?.map((item) => {
-        carImages.push({ "image": item?.path, "caption": item?.label })
+        carImages.push({ "image": item?.tabPath, "caption": item?.label })
     })
 
     return (

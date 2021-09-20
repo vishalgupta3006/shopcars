@@ -1,4 +1,4 @@
-import { FaHome, FaLocationArrow} from "react-icons/fa";
+import { FaHome, FaLocationArrow } from "react-icons/fa";
 import "./Carcard.css"
 import { IconContext } from "react-icons";
 import { useHistory } from "react-router";
@@ -18,8 +18,8 @@ const Carcard = props => {
     };
     const history = useHistory();
     return (
-        <div className="carCard" onClick = {()=>{history.push("./car-details/"+props.car.id)}}>
-            <div className="imageWrapper"><img alt = "car_image"src={props.car.main_image.url} /></div>
+        <div className="carCard" onClick={() => { history.push("/car-details/" + props.car.id) }}>
+            <div className="imageWrapper"><img alt="car_image" src={props.car.main_image.url} /></div>
             <div className="carDetails">
                 <div className="carModel">{props.car.make_year} {props.car.make} {props.car.model} {props.car.variant}</div>
                 <div className="miscDetails">
