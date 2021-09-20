@@ -1,8 +1,8 @@
 export const CARS_FETCH_PENDING = "CARS_FETCH_PENDING";
 export const CARS_FETCH_SUCCESS = "CARS_FETCH_SUCCESS";
 export const CARS_FETCH_ERROR = "CARS_FETCH_ERROR";
-export const INITIAL_LOAD = "INITIAL_LOAD";
 export const INCREAMENT_PAGE = "INCREAMENT_PAGE";
+export const CLEAR_DATA = "CLEAR_DATA";
 export function fetchCarsPending() {
     return {
         type: CARS_FETCH_PENDING
@@ -21,15 +21,13 @@ export function fetchCarsError(error) {
         error: error
     }
 }
-export function initialLoading(list, hasMore) {
-    return {
-        type: INITIAL_LOAD,
-        list: list,
-        hasMore: hasMore
-    }
-}
 export function incrementPage() {
     return {
         type: INCREAMENT_PAGE
+    }
+}
+export function clearTheList(){
+    return{
+        type: CLEAR_DATA
     }
 }

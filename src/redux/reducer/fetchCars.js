@@ -1,4 +1,4 @@
-import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INITIAL_LOAD, INCREAMENT_PAGE } from "../actions/action";
+import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INCREAMENT_PAGE, CLEAR_DATA } from "../actions/action";
 
 const initialState = {
     carList: [],
@@ -31,18 +31,16 @@ export function fetchCarsInfo(state = initialState, action) {
                 isCarListLoading: false,
                 isErrorInCarList: true
             }
-        case INITIAL_LOAD:
-            return {
-                ...state,
-                carList: [...new Set(action.list)],
-                isCarListLoading: false,
-                hasMore: action.hasMore,
-                loadedPages: state.pageNumber
-            }
         case INCREAMENT_PAGE:
             return {
                 ...state,
                 pageNumber: state.pageNumber + 1
+            }
+        case CLEAR_DATA:
+            return {
+                ...state,
+                carList: [],
+                pageNumber: 1
             }
         default:
             return state;

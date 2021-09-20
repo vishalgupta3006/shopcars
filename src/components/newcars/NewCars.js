@@ -6,7 +6,7 @@ import "./NewCars.css";
 import Loader from "../reusable/Loader";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCars } from "../../redux/methods/method";
-import { incrementPage } from "../../redux/actions/action";
+import { clearTheList, incrementPage } from "../../redux/actions/action";
 
 const NewCars = () => {
     const dispatch = useDispatch();
@@ -16,21 +16,28 @@ const NewCars = () => {
     const hasMore = useSelector(state => state.fetchCarsInfo.hasMore);
     const loadedpages = useSelector(state => state.fetchCarsInfo.loadedPages);
     const observer = useRef();
+
     const lastCarElement = useCallback(node => {
         if (isLoading) return
         if (observer.current) observer.current.disconnect();
         observer.current = new IntersectionObserver(element => {
             if (element[0].isIntersecting && hasMore)
-                    dispatch(incrementPage());
+                dispatch(incrementPage());
         })
         if (node) observer.current.observe(node);
-    },[hasMore, isLoading, dispatch])
+    }, [hasMore, isLoading, dispatch])
+
 
     useEffect(() => {
-        if(page === loadedpages)
-        return
+        if (page === loadedpages) { return }
         dispatch(fetchCars(page));
-    }, [page,dispatch,loadedpages]);
+
+    }, [page, dispatch, loadedpages]);
+
+    //To Clear the List to prevent memory leak issues
+    useEffect(() => {
+        return () => dispatch(clearTheList());
+    }, [dispatch])
 
     return (
         <div id="newCarsContainer">
@@ -45,15 +52,15 @@ const NewCars = () => {
                     <div className="cardContainer">
                         {
                             (isLoading && cars === []) ? <Loader /> :
-                            cars.map((element, index) => {
-                                if (index + 1 === cars.length) {
-                                    return <div className="carCardWrapper" ref={lastCarElement} key={element.id}><Carcard car={element} /></div>
-                                }
-                                else
-                                    return <div className="carCardWrapper" key={element.id}><Carcard car={element} /></div>
-                            })
+                                cars.map((element, index) => {
+                                    if (index + 1 === cars.length) {
+                                        return <div className="carCardWrapper" ref={lastCarElement} key={element.id}><Carcard car={element} /></div>
+                                    }
+                                    else
+                                        return <div className="carCardWrapper" key={element.id}><Carcard car={element} /></div>
+                                })
                         }
-                        { (isLoading) ? <Loader /> : <div>loaded</div>}
+                        {(isLoading) ? <Loader /> : <div>loaded</div>}
                     </div>
                 </div>
             </div>
