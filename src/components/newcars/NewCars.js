@@ -29,9 +29,8 @@ const NewCars = () => {
 
 
     useEffect(() => {
-        if (page === loadedpages) { return }
+        if (page != loadedpages)
         dispatch(fetchCars(page));
-
     }, [page, dispatch, loadedpages]);
 
     //To Clear the List to prevent memory leak issues

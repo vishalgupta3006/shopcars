@@ -26,7 +26,14 @@ const Topbar = () => {
                     </IconContext.Provider>
                 </div>
                     <div className=" topBarItem newCars" onClick={ ()=>{ history.push("/newcars")}}>
-                        New Cars
+                        <div> New Cars </div>
+                        <div className="cityOptions">
+                        <div className="cityOption  selectHeading">Select The City </div>
+                        <div className="cityOption">Delhi</div>
+                        <div className="cityOption">Mumbai</div>
+                        <div className="cityOption">Chennai</div>
+                        <div className="cityOption"> Kolkata</div>
+                        </div>
                     </div>
                 <div className="topBarItem oldCars">
                     Old Cars

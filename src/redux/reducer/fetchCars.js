@@ -40,7 +40,8 @@ export function fetchCarsInfo(state = initialState, action) {
             return {
                 ...state,
                 carList: [],
-                pageNumber: 1
+                pageNumber: 1,
+                loadedPages: 0
             }
         default:
             return state;
