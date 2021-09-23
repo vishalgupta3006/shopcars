@@ -36,8 +36,8 @@ export const cities = [
         displayName: "Gurgaon"
     },
     {
-        city: "ahemdabad",
-        displayName: "Ahemdabad"
+        city: "ahmedabad",
+        displayName: "Ahmedabad"
     },
     {
         city: "kolkata",

@@ -2,8 +2,10 @@ import Topbar from "../topbar/Topbar";
 import "./Contact.css";
 import ContactForm from "./ContactForm";
 import ContactAddress from "./ContactAddress";
+import { useEffect } from "react";
 
 const Contact = () => {
+    useEffect(()=>{ document.title = "Contact Us"},[]);
     return (
         <div id="contactUs">
             <Topbar />

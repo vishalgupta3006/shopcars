@@ -34,6 +34,7 @@ const NewCars = () => {
 
     //To Clear the List to prevent memory leak issues
     useEffect(() => {
+        document.title = "Buy New Cars"
         return () => dispatch(clearTheList());
     }, [dispatch])
 
