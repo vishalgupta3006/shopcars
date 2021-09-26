@@ -15,7 +15,7 @@ export default function SignupForm () {
                 <InputField type="tel" placeholder="Enter Mobile Number" label = "Mobile Number" id="signupFormPhone"/>
                 <InputField type="password" placeholder="Enter Password" label = "Password" id="signupFormPassword"/>
                 <InputField type="password" placeholder="Confirm Password" label = "Confirm Password" id="signupFormConfirmPassword"/>
-                <Button type="submit" label="Create Account" className="default" onclickhandler={signupAction}/>
+                <Button type="submit" label="Create Account" className="defaults" onclickhandler={signupAction}/>
             </form>
         </div>
     );

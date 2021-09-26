@@ -7,7 +7,7 @@
     width: 100%;
     visibility: hidden;
 }
-.hideModelContainer{
+.unhideModelContainer{
     visibility: visible;
 }
 .ModelBackground{
@@ -30,7 +30,7 @@
     font-size: 20px;
     align-items: center;
     position: relative;
-    
+    gap: 10px;
 }
 .modelContent.largeModel{
     width: 70%;
@@ -39,29 +39,35 @@
 }
 .modelContent.mediumModel{
     width: 50%;
+    max-width: 600px;
+    min-width: 400px;
 }
 .modelContent.smallModel{
     width: 30%;
+    max-width: 500px;
+    min-width: 300px;
 }
-.modelHeading{
+.ModelContainer .modelHeading{
     font-size: 30px;
-    font-weight: 600;
+
 }
-.modelHeading .crossIcon{
+.ModelContainer .modelHeading .crossIcon{
     background: red;
     color: #fff;
     position: absolute;
     top:0%;
     right: 0%;
-    padding: 5px;
+    padding: 3px;
     border-radius: 0 8px;
     cursor: pointer;
+    border: 1px solid red;
 }
-.modelContent hr{
-    width: 100%;
-    border-top: 2px solid grey;
+.modelHeading .crossIcon:hover{
+    background: #fff;
+    color: red;
 }
 .modelBody{
     width: 100%;
-    position: relative;
+    border-top: 2px solid grey;
+    padding-top: 20px;
 }

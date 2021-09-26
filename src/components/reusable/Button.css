@@ -1,6 +1,5 @@
 .buttonWrapper{
     width: 100%;
-    font-size: 15px;
     color: grey;
     display: grid;
     justify-items: center;
@@ -11,17 +10,24 @@
     border: 2px solid rgb(99,0, 163);
     border-radius: 8px;
     color: #fff;
-    background: rgb(99,0, 163);
+    background-color: rgb(99,0, 163);
     outline: none;
     padding: 0 10px;
     font-family: 'Roboto Condensed', sans-serif;
-    transition: all 0.3s ease;
-
+    font-size: 15px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.buttonWrapper button.btn-medium{
+    width: 50%;
+}
+.buttonWrapper button.btn-small{
+    width: 25%;
 }
 .buttonWrapper button:hover{
     background: #fff;
     color: rgb(99,0, 163);
     cursor: pointer;
+    
 }
 .buttonWrapper button.danger{
     border-color: red;
