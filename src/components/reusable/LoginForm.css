@@ -1,0 +1,17 @@
+.loginFormWrapper form{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    justify-items: center;
+}
+.loginFormWrapper form .loginButton{
+    width: 50%;
+    height: 35px;
+    border-radius: 8px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background: rgb(99,0, 163);
+    outline: none;
+    border: none;
+}

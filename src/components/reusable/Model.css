@@ -1,0 +1,67 @@
+.ModelContainer{
+    z-index: 999;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    visibility: hidden;
+}
+.hideModelContainer{
+    visibility: visible;
+}
+.ModelBackground{
+    width: 100%;
+    height: 100%;
+    background: rgb(0 0 0 / 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.modelContent{
+    cursor: default;
+    background: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    align-items: center;
+    position: relative;
+    
+}
+.modelContent.largeModel{
+    width: 70%;
+    max-width: 750px;
+    min-width: 500px;
+}
+.modelContent.mediumModel{
+    width: 50%;
+}
+.modelContent.smallModel{
+    width: 30%;
+}
+.modelHeading{
+    font-size: 30px;
+    font-weight: 600;
+}
+.modelHeading .crossIcon{
+    background: red;
+    color: #fff;
+    position: absolute;
+    top:0%;
+    right: 0%;
+    padding: 5px;
+    border-radius: 0 8px;
+    cursor: pointer;
+}
+.modelContent hr{
+    width: 100%;
+    border-top: 2px solid grey;
+}
+.modelBody{
+    width: 100%;
+    position: relative;
+}

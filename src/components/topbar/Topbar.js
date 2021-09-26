@@ -6,6 +6,10 @@ import { useHistory } from "react-router";
 import { cities } from "../../constants/cities";
 import { useDispatch } from "react-redux";
 import { updateTheCity } from "../../redux/actions/action";
+import Model from "../reusable/Model";
+import { useState } from "react";
+import LoginForm from "../reusable/LoginForm";
+import SignupForm from "../reusable/SignupForm";
 const Topbar = () => {
     const dispatch = useDispatch();
     const cityHandler = (e) => {
@@ -15,6 +19,15 @@ const Topbar = () => {
 
     }
     const history = useHistory();
+    const[showLoginModel, setShowLoginModel] = useState(false);
+    const[showSignupModel, setSignupModel] = useState(false);
+    console.log(showLoginModel)
+    const closeTheLoginModel =() => {
+        setShowLoginModel(false);
+    }
+    const closeTheSignupModel =() => {
+        setSignupModel(false);
+    }
     return (
         <Router>
             <div id="topbar">
@@ -34,7 +47,7 @@ const Topbar = () => {
                         <label><FaSearch /></label>
                     </IconContext.Provider>
                 </div>
-                <div className=" topBarItem newCars" onClick={() => { }}>
+                <div className=" topBarItem newCars">
                     <div> New Cars </div>
 
                     <div className="cityOptions">
@@ -47,18 +60,26 @@ const Topbar = () => {
                 <div className="topBarItem oldCars">
                     Old Cars
                 </div>
-                <div className="topBarItem reviews">
-                    Reviews
+                <div className="topBarItem reviews" onClick={() => setShowLoginModel(true) }>
+                    Login
+                </div>
+                <div className="topBarItem reviews" onClick={() => setSignupModel(true) }>
+                    Signup
                 </div>
                 <div className="topBarItem contact" onClick={() => { history.push("/contact") }}>
                     Contact Us
                 </div>
-                <div className="topBarItem call">
-                    <div id="callText">Call Now</div>
+                {/* <div className="topBarItem call">
+                    <div id="callText" >Call Now </div>
                     <div id="callNumber">+91-9877377830</div>
-                </div>
+                </div> */}
             </div>
-
+            <Model className="smallModel" heading="Login" closeHandler ={() => closeTheLoginModel()} isOpen = {showLoginModel}>
+                <LoginForm />
+            </Model>
+            <Model className="smallModel" heading="Signup" closeHandler ={() => closeTheSignupModel()} isOpen = {showSignupModel}>
+                <SignupForm />
+            </Model>
         </Router>
     );
 }

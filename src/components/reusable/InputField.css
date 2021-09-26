@@ -1,0 +1,19 @@
+.inputField{
+    width: 100%;
+    font-size: 15px;
+    color: grey;
+}
+.inputField input{
+    width: calc(100% - 24px);
+    height: 46px;
+    border-radius: 8px;
+    border: 2px solid #f2f3f5;
+    background: #f2f3f5;
+    outline: none;
+    padding: 0 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.inputField input:focus{
+    background: #fff;
+    border: 2px solid #e8e8e8;
+}
