@@ -7,7 +7,8 @@ const initialState = {
     hasMore: true,
     pageNumber: 1,
     loadedPages: 0,
-    selectedCity:'delhi-ncr'
+    selectedCity:'delhi-ncr',
+    makeFilter:""
 
 }
 export function fetchCarsInfo(state = initialState, action) {

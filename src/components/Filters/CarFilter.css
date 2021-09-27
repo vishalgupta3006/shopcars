@@ -1,8 +1,8 @@
 .carFilterWrapper{
-    position: relative;
-    width: 90%;
-    margin: 0 auto;
-    height: 500px;
+    height: 100vh;
+    position: sticky;
+    top:10px;
+    min-width: 300px;
 }
 .carFilter{
     background: #fff;

@@ -1,12 +1,26 @@
+import Button from "../reusable/Button";
+import InputField from "../reusable/InputField";
 import "./ContactForm.css";
 const ContactForm = () => {
+
+    const formHandler = (e) =>{
+        e.preventDefault()
+        const formData = {       
+            query: e.target[0].value,
+            desciption: e.target[1].value,
+            name: e.target[2].value,
+            phone: e.target[3].value,
+            email: e.target[4].value
+         }
+        console.log(formData)
+    }
     return (
         <div id="contactFormWrapper">
-            <div className="Heading">
+            <div className="sectionHeading">
                 Have a Query? Ask our Team
             </div>
             <div className="contentWrapper">
-                <form>
+                <form className="contactForm" onSubmit={formHandler}>
                     <div className="formItem" id="selectWrapper">
                         <select id="selectItem">
                             <option className="queryOption" value="sell">Car Selling Query</option>
@@ -17,18 +31,10 @@ const ContactForm = () => {
                     <div className="formItem" id="textareaWrapper">
                         <textarea placeholder="Describe Your Query" id="textareaItem" />
                     </div>
-                    <div className="formItem">
-                        <input type="text" placeholder="Enter Your Name" required/>
-                    </div>
-                    <div className="formItem">
-                        <input type="tel" placeholder="Enter Your Phone Number" required/>
-                    </div>
-                    <div className="formItem">
-                        <input id="email" type="email" placeholder="Enter Your Email" required />
-                    </div>
-                    <div className="formItem submitButtonWrapper">
-                        <button type="submit" className="submitButton">SUBMIT</button>
-                    </div>
+                    <InputField type="text" placeholder="Enter Your Name" label="Name" />
+                    <InputField type="tel" placeholder="Enter Your Phone Number" label="Phone Number" />
+                    <InputField type="email" placeholder="Enter Your Email" label="Email" />
+                    <Button label="Contact Us" className="btn-medium" type="submit" />
                 </form>
             </div>
         </div>

@@ -3,7 +3,7 @@ import { FaBuilding } from "react-icons/fa";
 const ContactAddress = () => {
     return (
         <div id="contactAddressWrapper">
-            <div className="Heading">
+            <div className="sectionHeading">
                 Visit Us Here
             </div>
             <div className="contentWrapper">

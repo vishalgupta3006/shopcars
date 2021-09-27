@@ -1,16 +1,13 @@
 #newCarsContainer{
-    display: flex;
-    flex-direction: column;
-}
-.newCarsContentContainer{
-    margin: 0 10%;
+    display: grid;
+    gap: 20px;
 }
 .newCarsContent{
+    width: 90vw;
+    margin: auto;
+    min-width: 978px;
+    max-width: 1248px;
     display: grid;
     grid-template-columns: 1fr 3fr;
-    margin-top: 20px;
-    
-}
-.filterContainer{
-    position: relative;
+    gap: 20px;
 }

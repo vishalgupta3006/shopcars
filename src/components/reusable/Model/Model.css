@@ -31,6 +31,7 @@
     align-items: center;
     position: relative;
     gap: 10px;
+    overflow: hidden;
 }
 .modelContent.largeModel{
     width: 70%;
@@ -58,7 +59,7 @@
     top:0%;
     right: 0%;
     padding: 3px;
-    border-radius: 0 8px;
+    border-radius: 0 4px;
     cursor: pointer;
     border: 1px solid red;
 }
