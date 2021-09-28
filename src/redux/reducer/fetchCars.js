@@ -1,4 +1,4 @@
-import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INCREAMENT_PAGE, CLEAR_DATA, UPDATE_CITY } from "../actions/action";
+import { CARS_FETCH_ERROR, CARS_FETCH_PENDING, CARS_FETCH_SUCCESS, INCREAMENT_PAGE, CLEAR_DATA, UPDATE_CITY, SET_MAKE_FILTER} from "../actions/action";
 
 const initialState = {
     carList: [],
@@ -40,10 +40,7 @@ export function fetchCarsInfo(state = initialState, action) {
             }
         case CLEAR_DATA:
             return {
-                ...state,
-                carList: [],
-                pageNumber: 1,
-                loadedPages: 0
+                initialState
             }
         case UPDATE_CITY:
             if(action.city !== state.selectedCity)
@@ -55,6 +52,15 @@ export function fetchCarsInfo(state = initialState, action) {
             }
             else{
                 return state;
+            }
+        case SET_MAKE_FILTER:
+            return{
+                ...state,
+                makeFilter: action.makeFilter,
+                pageNumber: 1,
+                loadedPages: 0,
+                carList: []
+
             }
         default:
             return state;

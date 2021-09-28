@@ -1,4 +1,4 @@
-#newCarsContainer{
+.newCarsContainer{
     display: grid;
     gap: 20px;
 }

@@ -4,3 +4,8 @@
   gap: 20px;
   position: relative;
 }
+.carCardWrapper{
+  min-width: 280px;
+  max-width: 300px;
+  margin-bottom: 20px;
+}

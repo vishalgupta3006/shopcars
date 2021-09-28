@@ -1,18 +1,19 @@
 import { useCallback, useEffect, useRef } from "react";
 import Topbar from "../topbar/Topbar";
-import "./NewCars.css";
+import styles from "./NewCars.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCars } from "../../redux/methods/method";
 import { clearTheList, incrementPage } from "../../redux/actions/action";
 import Cardlist from "./Cardlist";
 import CarFilter from "../Filters/CarFilter";
-
+console.log("THese are Styles:", styles)
 const NewCars = () => {
     const { pageNumber,
         isCarListLoading,
         carList,
         hasMore,
-        selectedCity
+        selectedCity,
+        makeFilter
     } = useSelector(state => state.fetchCarsInfo);
     const dispatch = useDispatch();
 
@@ -30,8 +31,8 @@ const NewCars = () => {
     }, [hasMore, isCarListLoading, dispatch])
 
     useEffect(() => {
-        dispatch(fetchCars(pageNumber, selectedCity));
-    }, [pageNumber, selectedCity, dispatch]);
+        dispatch(fetchCars(pageNumber, selectedCity, makeFilter));
+    }, [pageNumber, selectedCity, dispatch, makeFilter]);
 
     //To Clear the List to prevent memory leak issues
     useEffect(() => {
@@ -39,9 +40,9 @@ const NewCars = () => {
         return () => dispatch(clearTheList());
     }, [dispatch])
     return (
-        <div id="newCarsContainer">
+        <div className={styles.newCarsContainer}>
             <Topbar />
-            <div className="newCarsContent">
+            <div className={styles.newCarsContent}>
                 <CarFilter />
                 <Cardlist carList={carList} isCarListLoading={isCarListLoading} lastCarElement={lastCarElement} />
             </div>
