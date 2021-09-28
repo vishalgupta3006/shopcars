@@ -1,4 +1,4 @@
-import "./Topbar.css";
+import styles from "./Topbar.module.css";
 import { FaCar, FaSearch } from "react-icons/fa";
 import { IconContext } from "react-icons";
 import { BrowserRouter as Router } from "react-router-dom";
@@ -11,70 +11,65 @@ import { useState } from "react";
 import LoginForm from "../reusable/LoginForm";
 import SignupForm from "../reusable/SignupForm";
 const Topbar = () => {
-    const dispatch = useDispatch();
-    const cityHandler = (e) => {
-        dispatch(updateTheCity(e.target.id));
-        history.push("/newcars/" + e.target.id)
-    }
-    const history = useHistory();
-    const [showLoginModel, setShowLoginModel] = useState(false);
-    const [showSignupModel, setSignupModel] = useState(false);
+  const dispatch = useDispatch();
+  const cityHandler = (e) => {
+    dispatch(updateTheCity(e.target.id));
+    history.push("/newcars/" + e.target.id)
+  }
+  const history = useHistory();
+  const [showLoginModel, setShowLoginModel] = useState(false);
+  const [showSignupModel, setSignupModel] = useState(false);
 
-    return (
-        <Router>
-            <div id="topbar">
-                <div className="topBarItem logoContent" onClick={() => { history.push("/") }}>
-                    <div className="logoIconArea">
-                        <IconContext.Provider value={{ className: "logoIcon" }}>
-                            <div><FaCar /></div>
-                        </IconContext.Provider>
-                    </div>
-                    <div className="logoText">
-                        Shop Cars
-                    </div>
-                </div>
-                <div className="topBarItem searchArea">
-                    <input id="searchInput" className="searchBar" type="text" placeholder="Search..." />
-                    <IconContext.Provider value={{ className: "searchIcon", for: "searchInput" }}>
-                        <label><FaSearch /></label>
-                    </IconContext.Provider>
-                </div>
-                <div className=" topBarItem newCars">
-                    <div> New Cars </div>
-
-                    <div className="cityOptions">
-                        <div className="cityOption  selectHeading">Select The City </div>
-                        {cities.map((city, index) => {
-                            return <div key={index} className="cityOption" id={city.city} onClick={cityHandler}>{city.displayName}</div>
-                        })}
-                    </div>
-                </div>
-                <div className="topBarItem oldCars">
-                    Old Cars
-                </div>
-                <div className="topBarItem reviews" onClick={() => setShowLoginModel(true)}>
-                    Login
-                </div>
-                <div className="topBarItem reviews" onClick={() => setSignupModel(true)}>
-                    Signup
-                </div>
-                <div className="topBarItem contact" onClick={() => { history.push("/contact") }}>
-                    Contact Us
-                </div>
-                {/* <div className="topBarItem call">
-                    <div id="callText" >Call Now </div>
-                    <div id="callNumber">+91-9877377830</div>
-                </div> */}
-            </div>
-            {(showLoginModel) ?
-                <Model className="smallModel" heading="Login" closeHandler={() => setShowLoginModel(false)} isOpen={showLoginModel}>
-                    <LoginForm />
-                </Model> : <></>}
-            {(showSignupModel) ?
-                <Model className="smallModel" heading="Signup" closeHandler={() => setSignupModel(false)} isOpen={showSignupModel}>
-                    <SignupForm />
-                </Model> : <></>}
-        </Router>
-    );
+  return (
+    <Router>
+      <div className={styles.topbar}>
+        <div className={`${styles.topBarItem} ${styles.logoContent}`} onClick={() => { history.push("/") }}>
+          <IconContext.Provider value={{ className: styles.logoIcon }}>
+            <div ><FaCar /></div>
+          </IconContext.Provider>
+          <div className={styles.logoText}>
+            Shop Cars
+          </div>
+        </div>
+        <div className={`${styles.topBarItem} ${styles.searchArea}`}>
+          <label className={styles.searchField}>
+            <input className={styles.searchBar} type="text" placeholder="Search..." />
+            <IconContext.Provider value={{ className: styles.searchIcon }}>
+              <FaSearch />
+            </IconContext.Provider>
+          </label>
+        </div>
+        <div className={`${styles.topBarItem} ${styles.newCars}`}>
+          <div> New Cars </div>
+          <div className={styles.cityOptions}>
+            <div className={styles.cityOption, styles.selectHeading}>Select The City </div>
+            {cities.map((city, index) => {
+              return <div key={index} className={styles.cityOption} id={city.city} onClick={cityHandler}>{city.displayName}</div>
+            })}
+          </div>
+        </div>
+        <div className={`${styles.topBarItem} ${styles.oldCars}`}>
+          Old Cars
+        </div>
+        <div className={styles.topBarItem} onClick={() => setShowLoginModel(true)}>
+          Login
+        </div>
+        <div className={styles.topBarItem} onClick={() => setSignupModel(true)}>
+          Signup
+        </div>
+        <div className={styles.topBarItem} onClick={() => { history.push("/contact") }}>
+          Contact Us
+        </div>
+      </div>
+      {(showLoginModel) ?
+        <Model className="smallModel" heading="Login" closeHandler={() => setShowLoginModel(false)} isOpen={showLoginModel}>
+          <LoginForm />
+        </Model> : <></>}
+      {(showSignupModel) ?
+        <Model className="smallModel" heading="Signup" closeHandler={() => setSignupModel(false)} isOpen={showSignupModel}>
+          <SignupForm />
+        </Model> : <></>}
+    </Router>
+  );
 }
 export default Topbar;

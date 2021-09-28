@@ -6,7 +6,6 @@ import { fetchCars } from "../../redux/methods/method";
 import { clearTheList, incrementPage } from "../../redux/actions/action";
 import Cardlist from "./Cardlist";
 import CarFilter from "../Filters/CarFilter";
-console.log("THese are Styles:", styles)
 const NewCars = () => {
     const { pageNumber,
         isCarListLoading,

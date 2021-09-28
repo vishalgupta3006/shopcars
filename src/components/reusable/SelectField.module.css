@@ -1,0 +1,23 @@
+.selectField{
+  width: 100%;
+  font-size: 15px;
+  color: grey;
+}
+.selectField select{
+  width: 100%;
+  height: 46px;
+  border-radius: 8px;
+  border: 2px solid #f2f3f5;
+  background: #f2f3f5;
+  outline: none;
+  padding: 0 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  resize:vertical;
+}
+.selectField select:focus{
+  background: #fff;
+  border-color:#e8e8e8;
+}
+.selectField option{
+  font-size: 14px;
+}

@@ -1,0 +1,16 @@
+.contactFormWrapper{
+    padding: 0 20px;
+    font-size: 15px;
+}
+.sectionHeading{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+.contactForm{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    justify-items: center;
+}

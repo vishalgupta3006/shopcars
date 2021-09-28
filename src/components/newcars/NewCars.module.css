@@ -3,8 +3,8 @@
     gap: 20px;
 }
 .newCarsContent{
-    width: 90vw;
-    margin: auto;
+    width: 100%;
+    padding: 0 10vw;
     min-width: 978px;
     max-width: 1248px;
     display: grid;

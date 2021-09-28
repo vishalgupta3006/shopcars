@@ -1,31 +1,34 @@
 import Topbar from "../topbar/Topbar";
-import "./Contact.css";
+import styles from "./Contact.module.css";
 import ContactForm from "./ContactForm";
 import ContactAddress from "./ContactAddress";
 import { useEffect } from "react";
+import { contactInfo } from "./constants/contactInfo";
+import Button from "../reusable/Button";
 
 const Contact = () => {
-    useEffect(()=>{ document.title = "Contact Us"},[]);
-    return (
-        <div id="contactUs">
-            <Topbar />
-            <div className="contactBG">
-                <div className="contactText">
-                    Contact Us
-                </div>
-                <div className="contactInfo">
-                    <div>vishalgupta3006@gmail.com</div>
-                    <div>+91-9877377830</div>
-                </div>
-            </div>
-            <div className ="formAndAddress">
-                <div><ContactForm/></div>
-                <div><ContactAddress/></div>
-            </div>
-            <div className="shopCarsLocations">
-                VIEW SHOPCARS LOCATIONS
-            </div>
+  useEffect(() => { document.title = "Contact Us" }, []);
+  const shopcarsLocationHandler = () => {
+    console.log("Trying to Get shopcar locations");
+  }
+  return (
+    <div className={styles.contactUsPage}>
+      <Topbar />
+      <div className={styles.contactBG}>
+        <div className={styles.contactText}>
+          Contact Us
         </div>
-    );
+        <div className={styles.contactInfo}>
+          <div>{contactInfo.email}</div>
+          <div>{contactInfo.phone}</div>
+        </div>
+      </div>
+      <div className={styles.formAndAddress}>
+        <ContactForm />
+        <ContactAddress />
+      </div>
+      <Button type="button" label="VIEW SHOPCARS LOCATIONS" className="btn-small" onclickhandler={() => shopcarsLocationHandler()} />
+    </div>
+  );
 }
 export default Contact;

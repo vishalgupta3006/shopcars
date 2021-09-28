@@ -1,0 +1,36 @@
+.contactAddressWrapper{
+  padding: 0 20px;
+  font-size: 15px;
+}
+.sectionHeading{
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 40px;
+  font-weight: 500;
+}
+.addressWrapper{
+  display: grid;
+  gap: 40px;
+}
+.addressDetails{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.addressHeading{
+  display: flex;
+  gap:10px;
+  font-size: 20px;
+}
+.addressWrapper a{
+  font-weight: 600;
+  text-decoration: none;
+  color: #6300a3;
+}
+.mapLink{
+  display: flex;
+  align-items: flex-end;
+}
+.addressWrapper .mapLink:hover{
+  text-decoration: solid underline #6300a3 2px;
+}

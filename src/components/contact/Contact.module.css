@@ -1,0 +1,60 @@
+.contactUsPage{
+    background: #f2f3f5;
+}
+.contactBG{
+    background-image: url(../../images/contactBackground2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    isolation: isolate;
+}
+.contactBG::before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: 
+    linear-gradient(
+        0deg,
+        rgb(0 0 0/ .9), rgb(0 0 0/ 0)
+    );
+    z-index: -1;
+}
+.contactBG .contactText{
+    font-size: 30px;
+}
+.contactBG .contactInfo{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    gap:20px;
+    margin: 20px 0;
+}
+.formAndAddress{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    background:#fff;
+    width: 1000px;
+    margin:auto;
+    border-radius: 32px;
+    transform: translateY(-10%);
+    padding: 20px 20px 60px 20px;
+    font-size: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+@media (max-width: 1024px){
+    .formAndAddress{
+        grid-template-columns: 1fr;
+        width: 600px;
+    }
+    .contactInfo{
+        flex-wrap: wrap;
+    }
+}

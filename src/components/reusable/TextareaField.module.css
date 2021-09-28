@@ -1,0 +1,19 @@
+.textareaField{
+  width: 100%;
+  font-size: 15px;
+  color: grey;
+}
+.textareaField textarea{
+  width: calc(100% - 24px);
+  border-radius: 8px;
+  border: 2px solid #f2f3f5;
+  background: #f2f3f5;
+  outline: none;
+  padding: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  resize:vertical;
+}
+.textareaField textarea:focus{
+  background: #fff;
+  border-color:#e8e8e8;
+}
