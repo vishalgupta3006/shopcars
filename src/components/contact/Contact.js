@@ -4,7 +4,7 @@ import ContactForm from "./ContactForm";
 import ContactAddress from "./ContactAddress";
 import { useEffect } from "react";
 import { contactInfo } from "./constants/contactInfo";
-import Button from "../reusable/Button";
+import Button from "../reusable/form fields/Button";
 
 const Contact = () => {
   useEffect(() => { document.title = "Contact Us" }, []);

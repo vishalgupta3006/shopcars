@@ -1,7 +1,7 @@
-import Button from "../reusable/Button";
-import InputField from "../reusable/InputField";
-import SelectField from "../reusable/SelectField";
-import TextareaField from "../reusable/TextareaField";
+import Button from "../reusable/form fields/Button";
+import InputField from "../reusable/form fields/InputField";
+import SelectField from "../reusable/form fields/SelectField";
+import TextareaField from "../reusable/form fields/TextareaField";
 import styles from "./ContactForm.module.css";
 import { contactFormQueryTypes } from "./constants/contactFormQueryTypes";
 const ContactForm = () => {

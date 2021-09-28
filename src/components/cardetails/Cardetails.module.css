@@ -1,0 +1,23 @@
+.carDetailsPage{
+    display: grid;
+    gap: 20px;
+}
+.carDetailsWrapper{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    width: 100%;
+    padding: 0 10vw;
+    min-width: 978px;
+    max-width: 1248px;
+    gap: 20px;
+    overflow: hidden;
+    position: relative;
+}
+.leftSideWrapper{
+    min-width: 616px;
+    max-width: 822px;
+}
+.rightSideWrapper{
+    min-width: 303px;
+    max-width: 406px;
+}

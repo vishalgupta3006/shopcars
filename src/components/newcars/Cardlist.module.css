@@ -3,9 +3,9 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   position: relative;
+
 }
 .carCardWrapper{
-  min-width: 280px;
-  max-width: 300px;
+  width: 280px;
   margin-bottom: 20px;
 }

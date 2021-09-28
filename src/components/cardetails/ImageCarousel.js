@@ -25,7 +25,6 @@ const ImageCarousel = () => {
 
                 </div>
             </div>
-            <div>THis is dummy text and willl be deleted bfehsid ewfuidxcdsfb /.n dhbx</div>
         </div>
     )
 }

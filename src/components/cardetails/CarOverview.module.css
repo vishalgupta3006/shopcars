@@ -1,0 +1,27 @@
+.CarOverviewWrapper{
+  margin-top: 20px;
+  width: calc(100%- 40px);
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.sectionHeading{
+  font-size: 20px;
+}
+.CarOverview{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.CarOverviewItems{
+  padding: 15px 0;
+  border-bottom: 1px solid #f2f3f5;
+}
+.CarOverviewItems .overViewLabel{
+  color: grey;
+  font-size: 12px;
+  height: 20px;
+}
+.CarOverviewItems .overviewDisplay{
+  font-weight: bold;
+}

@@ -42,7 +42,7 @@ const Topbar = () => {
         <div className={`${styles.topBarItem} ${styles.newCars}`}>
           <div> New Cars </div>
           <div className={styles.cityOptions}>
-            <div className={styles.cityOption, styles.selectHeading}>Select The City </div>
+            <div className={styles.selectHeading}>Select The City </div>
             {cities.map((city, index) => {
               return <div key={index} className={styles.cityOption} id={city.city} onClick={cityHandler}>{city.displayName}</div>
             })}

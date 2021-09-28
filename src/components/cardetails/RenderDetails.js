@@ -16,7 +16,7 @@ export default function RenderDetails(props) {
                 {props?.details?.mileage} Kms&nbsp;&nbsp;&nbsp; {props?.details?.fuel_type}&nbsp;&nbsp;&nbsp; {props?.details?.transmission}
             </div>
             <div className="item priceProduct">{toIndianCurrency(props?.details?.productPrice)}</div>
-            <div className="unutilized"><img alt="waste phot" src={unutilizedImg} /></div>
+            <div className="unutilized"><img alt="waste phot" /></div>
         </div>
     )
 }

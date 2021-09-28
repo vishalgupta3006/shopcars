@@ -1,5 +1,5 @@
-import Button from './Button';
-import InputField from './InputField';
+import Button from './form fields/Button';
+import InputField from './form fields/InputField';
 import './LoginForm.css';
 export default function LoginForm() {
     const loginHandler = (e) => {

@@ -81,9 +81,6 @@
 .cityOption:hover{
     background: #f2f3f5
 }
-.selectHeading:hover{
-    background: #fff;
-}
 .newCars:hover .cityOptions{
     visibility: visible;
 }
