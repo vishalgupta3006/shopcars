@@ -24,4 +24,5 @@
 }
 .CarOverviewItems .overviewDisplay{
   font-weight: bold;
+  text-transform: capitalize ;
 }

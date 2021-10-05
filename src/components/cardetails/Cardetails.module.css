@@ -1,11 +1,12 @@
 .carDetailsPage{
     display: grid;
     gap: 20px;
+    box-sizing: border-box;
 }
 .carDetailsWrapper{
     display: grid;
     grid-template-columns: 2fr 1fr;
-    width: 100%;
+    width: calc(100% - 20vw);
     padding: 0 10vw;
     min-width: 978px;
     max-width: 1248px;

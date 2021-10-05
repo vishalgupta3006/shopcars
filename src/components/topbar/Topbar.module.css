@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 2fr 4fr 1fr 1fr 1fr 1fr 1fr;
     gap:10px;
-    width: 100%;
+    width: calc(100% - 20vw);
     padding: 15px 10vw;
     min-width: 978px;
     max-width: 1248px;

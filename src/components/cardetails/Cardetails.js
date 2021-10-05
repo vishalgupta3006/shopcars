@@ -35,7 +35,7 @@ const CarDetails = () => {
         <div className={styles.carDetailsWrapper}>
           <div className={styles.leftSideWrapper}>
             <ImageCarousel />
-            <CarOverview />
+            <CarOverview details ={carDetails.productDetail}/>
             <Button />
           </div>
           <div className={styles.rightSideWrapper}>

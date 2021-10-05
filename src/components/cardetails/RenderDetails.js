@@ -1,5 +1,4 @@
 import './RenderDetails.css';
-import unutilizedImg from '../../images/toBeThere.jpg'
 export default function RenderDetails(props) {
     const toIndianCurrency = (num) => {
         let curr = num?.toLocaleString('en-IN', {

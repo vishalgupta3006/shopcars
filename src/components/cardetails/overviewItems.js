@@ -1,42 +1,42 @@
 export const overviewItems = [
   {
     label: "Make Year",
-    display:"2016"
+    display:""
   },
   {
     label: "Registration Year",
-    display:"2018"
+    display:""
   },
   {
     label: "Fuel Type",
-    display:"petrol"
+    display:""
   },
   {
     label: "KM driven",
-    display:"12345 Kms"
+    display:""
   },
   {
     label: "Transmission",
-    display:"Manual"
+    display:""
   },
   {
     label: "No. Of Owner",
-    display:"1st"
+    display:""
   },
   {
     label: "Insurance Validity",
-    display:"nill"
+    display:""
   },
   {
     label: "Insurance Type",
-    display:"3rd Party"
+    display:""
   },
   {
     label: "RTO",
-    display:"Hoshiarpur"
+    display:""
   },
   {
     label: "Car Location",
-    display:"india"
+    display:""
   }
 ]
