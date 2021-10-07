@@ -1,4 +1,4 @@
-import { CAR_DETAILS_ERROR, CAR_DETAILS_PENDING, CAR_DETAILS_SUCCESS } from "../actions/carDetails";
+import { CAR_DETAILS_ERROR, CAR_DETAILS_PENDING, CAR_DETAILS_SUCCESS, CLEAR_CAR_DETAILS } from "../actions/carDetails";
 
 const initialState = {
     carDetails: {},
@@ -26,6 +26,8 @@ export function fetchCarDetails(state = initialState, action) {
                 isErrorInCarDetails: true,
                 isCarLoading: false
             }
+        case CLEAR_CAR_DETAILS:
+            return initialState
         default:
             return state
     }

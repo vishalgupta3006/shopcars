@@ -12,6 +12,9 @@ const Routes = () =>{
                 <Route path="/" exact>
                     <OldCars />
                 </Route>
+                <Route path="/oldcars" exact>
+                    <OldCars />
+                </Route>
                 <Route path="/newcars">
                     <NewCars />
                 </Route>

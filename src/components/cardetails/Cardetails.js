@@ -10,16 +10,31 @@ import ImageCarousel from "./ImageCarousel";
 import RenderDetails from "./RenderDetails";
 import CarOverview from "./CarOverview";
 import Button from "../reusable/form fields/Button";
+//import { clearCarDetails } from "../../redux/actions/carDetails";
 const CarDetails = () => {
 
   const params = useParams();
   const dispatch = useDispatch();
-  const {isCarLoading, isErrorInCarDetails, carDetails} = useSelector(state => state.fetchCarDetails);
-
+  const { isCarLoading, isErrorInCarDetails, carDetails = {} } = useSelector(state => state.fetchCarDetails);
+  const localStorageHandler = (newCar) => {
+    if (newCar !== {}) {
+      const oldItems = JSON.parse(localStorage.getItem("car-details"));
+      console.log("localStorage", oldItems);
+      const newValue = (oldItems) ? [...oldItems, newCar] : [newCar];
+      localStorage.setItem("car-details", JSON.stringify(newValue));
+    }
+  }
   useEffect(() => {
     document.title = "Car Details";
     dispatch(getCarDetails(params.id));
-  }, [params, dispatch])
+  }, [params, dispatch]);
+
+  useEffect(() => {
+    return () => localStorageHandler(carDetails);
+    //eslint-disable-next-line
+  }, []);
+  useEffect(() =>{
+  },[window]);
 
 
   if (isCarLoading) {
@@ -31,11 +46,13 @@ const CarDetails = () => {
   else {
     return (
       <div className={styles.carDetailsPage}>
+        <div>CLick Me</div>
+
         <Topbar />
         <div className={styles.carDetailsWrapper}>
           <div className={styles.leftSideWrapper}>
             <ImageCarousel />
-            <CarOverview details ={carDetails.productDetail}/>
+            <CarOverview details={carDetails.productDetail} />
             <Button />
           </div>
           <div className={styles.rightSideWrapper}>

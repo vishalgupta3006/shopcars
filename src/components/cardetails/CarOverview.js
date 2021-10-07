@@ -1,6 +1,6 @@
 import styles from "./CarOverview.module.css";
 export default function CarOverview(props) {
-  console.log(props)
+  //console.log(props)
    const overviewItems = [
     {
       label: "Make Year",

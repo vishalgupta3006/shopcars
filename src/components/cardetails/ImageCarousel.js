@@ -9,7 +9,7 @@ const ImageCarousel = () => {
     car_details?.map((item) => {
         carImages.push({ "image": item?.tabPath, "caption": item?.label })
     })
-    console.log(carImages)
+    //console.log(carImages)
 
     return (
         <div className="carouselCom">
