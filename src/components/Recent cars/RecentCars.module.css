@@ -1,0 +1,17 @@
+.recentMainWrapper{
+  padding: 0 15%;
+}
+.recentCarsHeaderSection{
+  font-family: 'Roboto Condensed', sans-serif;
+  color:rgb(48, 3, 90);
+}
+.recentContainer{
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+.recentCarsHeading{
+  font-size: 1.5rem;
+  padding: 1rem 0;
+}

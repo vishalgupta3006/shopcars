@@ -1,4 +1,5 @@
 export const toIndianCurrency = (num) => {
+  if(!num) return;
   let curr = num.toLocaleString('en-IN', {
       style: 'currency',
       currency: 'INR'

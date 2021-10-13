@@ -11,7 +11,7 @@ const Routes = () =>{
         <Router>
             <Switch>
                 <Route path="/" exact>
-                    <Topbar />
+                    <RecentCars />
                 </Route>
                 <Route path="/oldcars" exact>
                     <OldCars />

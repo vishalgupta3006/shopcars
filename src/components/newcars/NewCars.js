@@ -45,9 +45,6 @@ const NewCars = () => {
                 <CarFilter />
                 <Cardlist carList={carList} isCarListLoading={isCarListLoading} lastCarElement={lastCarElement} />
             </div>
-            <div className="waste">
-                This is a waste class just to know that the page has reached the end
-            </div>
         </div>
     );
 }

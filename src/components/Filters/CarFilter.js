@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 
 const CarFilter = () => {
     const cars = useSelector(state => state.fetchCarsInfo.carList);
-    var arrOfMake = cars.map((car)=>{
+    var arrOfMake = cars?.map((car)=>{
         return car.make
     })
     arrOfMake = [...new Set(arrOfMake)];
