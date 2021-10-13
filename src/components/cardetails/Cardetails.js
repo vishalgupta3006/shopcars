@@ -16,26 +16,18 @@ const CarDetails = () => {
   const params = useParams();
   const dispatch = useDispatch();
   const { isCarLoading, isErrorInCarDetails, carDetails = {} } = useSelector(state => state.fetchCarDetails);
-  const localStorageHandler = (newCar) => {
-    if (newCar !== {}) {
-      const oldItems = JSON.parse(localStorage.getItem("car-details"));
-      console.log("localStorage", oldItems);
-      const newValue = (oldItems) ? [...oldItems, newCar] : [newCar];
-      localStorage.setItem("car-details", JSON.stringify(newValue));
-    }
+
+  const localStorageHandler = (carId) => {
+    if (carId === null) return;
+    const oldItems = JSON.parse(localStorage.getItem("recentCarsView"));
+    const newValue = (oldItems) ? [... new Set([...oldItems, carId])] : [carId];
+    localStorage.setItem("recentCarsView", JSON.stringify(newValue));
   }
   useEffect(() => {
     document.title = "Car Details";
     dispatch(getCarDetails(params.id));
+    localStorageHandler(params.id);
   }, [params, dispatch]);
-
-  useEffect(() => {
-    return () => localStorageHandler(carDetails);
-    //eslint-disable-next-line
-  }, []);
-  useEffect(() =>{
-  },[window]);
-
 
   if (isCarLoading) {
     return <Loader />
@@ -46,8 +38,6 @@ const CarDetails = () => {
   else {
     return (
       <div className={styles.carDetailsPage}>
-        <div>CLick Me</div>
-
         <Topbar />
         <div className={styles.carDetailsWrapper}>
           <div className={styles.leftSideWrapper}>

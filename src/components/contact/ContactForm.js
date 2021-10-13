@@ -5,16 +5,28 @@ import TextareaField from "../reusable/form fields/TextareaField";
 import styles from "./ContactForm.module.css";
 import { contactFormQueryTypes } from "./constants/contactFormQueryTypes";
 const ContactForm = () => {
+  const dataToServer = (formData) =>{
+    const options ={
+        method: "POST",
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData)
+    }
+    fetch('https://shopcars-backend.herokuapp.com/contact', options)
+    .then(response =>response.json())
+    .then(response => console.log(response)).
+    catch(err=>console.log(err));
+}
   const formHandler = (e) => {
     e.preventDefault()
     const formData = {
-      query: e.target[0].value,
-      desciption: e.target[1].value,
+      queryType: e.target[0].value,
+      description: e.target[1].value,
       name: e.target[2].value,
       phone: e.target[3].value,
       email: e.target[4].value
     }
-    console.log(formData)
+    dataToServer(formData);
+    console.log()
   }
   return (
     <div className={styles.contactFormWrapper}>

@@ -48,7 +48,7 @@ const Topbar = () => {
             })}
           </div>
         </div>
-        <div className={`${styles.topBarItem} ${styles.oldCars}`}>
+        <div className={`${styles.topBarItem} ${styles.oldCars}`} onClick={() => { history.push("/oldcars") }}>
           Old Cars
         </div>
         <div className={styles.topBarItem} onClick={() => setShowLoginModel(true)}>

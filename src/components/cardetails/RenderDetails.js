@@ -1,13 +1,6 @@
 import './RenderDetails.css';
+import { toIndianCurrency } from '../../utils/toIndianCurrency';
 export default function RenderDetails(props) {
-    const toIndianCurrency = (num) => {
-        let curr = num?.toLocaleString('en-IN', {
-            style: 'currency',
-            currency: 'INR'
-        });
-        curr = curr?.substring(0, curr.indexOf('.'));
-        return curr;
-    };
     return (
         <div className="renderCarDetails">
             <h1 className="item carDetailsHeading">{props?.details?.make_year} {props?.details?.variant?.full_name}</h1>

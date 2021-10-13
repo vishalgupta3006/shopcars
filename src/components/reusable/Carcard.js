@@ -2,24 +2,14 @@ import { FaHome, FaLocationArrow } from "react-icons/fa";
 import styles from "./Carcard.module.css"
 import { IconContext } from "react-icons";
 import { useHistory } from "react-router";
+import { toIndianCurrency } from "../../utils/toIndianCurrency";
+import { toKilometers } from "../../utils/toKilometers";
 
 const Carcard = (props) => {
-    const toIndianCurrency = (num) => {
-        let curr = num.toLocaleString('en-IN', {
-            style: 'currency',
-            currency: 'INR'
-        });
-        curr = curr.substring(0, curr.indexOf('.'));
-        return curr;
-    };
-
-    const toKilometers = (num) => {
-        let curr = num.toLocaleString('en-IN');
-        return curr;
-    };
-
+    
     const history = useHistory();
     return (
+
         <div className={styles.carCard} onClick={() => { history.push("/car-details/" + props.car.id) }}>
             <div className={styles.imageWrapper}><img alt="car_image" src={props.car.main_image.url} /></div>
             <div className={styles.carDetails}>

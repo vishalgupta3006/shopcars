@@ -1,4 +1,4 @@
-import Carcard from "./Carcard";
+import Carcard from "../reusable/Carcard";
 import Loader from "../reusable/Loader";
 import styles from './Cardlist.module.css';
 export default function Cardlist(props) {
