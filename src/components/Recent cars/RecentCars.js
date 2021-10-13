@@ -21,6 +21,7 @@ const RecentCars = () => {
   }
   const recentCarsFetcher = () => {
     const recentCarsView = JSON.parse(localStorage.getItem("recentCarsView"));
+    if (!recentCarsView) return;
     const ids = recentCarsView.toString();
     recentCarsAPI({ ids: ids });
   }
